@@ -278,8 +278,8 @@ graph TD
 graph TB
     subgraph Docker Compose
         FE_C[Frontend Container<br/>Node 20-slim<br/>port 5173]
-        BE_C[Backend Container<br/>Python 3.11-slim<br/>port 8001]
-        MCP_C[MCP Server<br/>Python 3.11-slim<br/>port 8002]
+        BE_C[Backend Container<br/>Python 3.12-slim<br/>port 8001]
+        MCP_C[MCP Server<br/>Python 3.12-slim<br/>port 8002]
     end
 
     subgraph External Services

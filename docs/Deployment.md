@@ -8,7 +8,7 @@ This guide covers all deployment scenarios from local development to production 
 
 | Tool | Version | Purpose |
 |------|---------|---------|
-| Python | 3.11+ | Backend runtime |
+| Python | 3.12+ | Backend runtime |
 | Node.js | 20+ | Frontend build |
 | Docker | 24+ | Containerized deployment |
 | Docker Compose | 2.x | Multi-container orchestration |
@@ -229,4 +229,4 @@ Verify `vite.config.js` proxy is set to `http://localhost:8001`.
 
 ## Python Version Note
 
-The production Dockerfile uses `python:3.11-slim`. The local development venv was created with Python 3.14. Both versions are compatible with all pinned dependencies. If you encounter issues, use Python 3.11 locally to exactly match the Docker environment.
+The production Dockerfile uses `python:3.12-slim`. The local development venv was created with Python 3.14. Both versions are compatible with all pinned dependencies. If you encounter issues, use Python 3.12 locally to exactly match the Docker environment.

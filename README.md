@@ -6,7 +6,7 @@
 
 **A Multi-Agent AI Platform for Humanitarian Impact**
 
-[![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](https://python.org)
+[![Python](https://img.shields.io/badge/Python-3.12%2B-3776AB?logo=python&logoColor=white)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.138-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Google Gemini](https://img.shields.io/badge/Gemini-2.5--Flash-4285F4?logo=google&logoColor=white)](https://ai.google.dev)
 [![Google ADK](https://img.shields.io/badge/Google%20ADK-2.3.0-34A853?logo=google&logoColor=white)](https://google.github.io/adk-docs/)
