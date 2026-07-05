@@ -49,38 +49,38 @@ Traditional matching systems use keyword search or simple filters. CollabBridge 
 ## 🏗️ Architecture
 
 ```
-┌─────────────────────────────────────────────────────────┐
+┌──────────────────────────────────────────────────────────┐
 │                    Frontend (Vite + React)               │
-│  Dashboard · Chat · Matches · Proposals · Analytics     │
-└──────────────────────┬──────────────────────────────────┘
+│  Dashboard · Chat · Matches · Proposals · Analytics      │
+└──────────────────────┬───────────────────────────────────┘
                        │ REST API (port 8001)
-┌──────────────────────▼──────────────────────────────────┐
+┌──────────────────────▼───────────────────────────────────┐
 │                  FastAPI Backend                         │
-│  ┌──────────────────────────────────────────────────┐   │
-│  │              Agent Orchestrator (Agent 1)        │   │
-│  │  Routes conversations → Interview/Task Agents   │   │
-│  └──────┬──────────────┬──────────────┬────────────┘   │
+│  ┌──────────────────────────────────────────────────┐    │
+│  │              Agent Orchestrator (Agent 1)        │    │
+│  │  Routes conversations → Interview/Task Agents    │    │
+│  └──────┬──────────────┬──────────────┬─────────────┘    │
 │         │              │              │                  │
-│  ┌──────▼──────┐ ┌─────▼──────┐ ┌────▼───────────────┐ │
-│  │Researcher   │ │Project     │ │  Specialist Agents  │ │
-│  │Interview    │ │Interview   │ │  ├─ Matcher (5)     │ │
-│  │Agent (2)    │ │Agent (3)   │ │  ├─ TeamBuilder (6) │ │
-│  └──────┬──────┘ └─────┬──────┘ │  ├─ Proposal (7)   │ │
-│         │              │        │  ├─ Impact (8)      │ │
-│  ┌──────▼──────────────▼──────┐ │  ├─ Recommender (9)│ │
-│  │  Extraction Agent (4)      │ │  ├─ Translator (10) │ │
-│  │  Structured JSON Profiles  │ │  └─ Funding (11)   │ │
-│  └────────────────────────────┘ └────────────────────┘ │
-│  ┌──────────────────────────────────────────────────┐   │
-│  │        SQLAlchemy / SQLite Database              │   │
-│  │  Users · Researchers · Projects · ChatSessions  │   │
-│  └──────────────────────────────────────────────────┘   │
-└──────────────────────┬──────────────────────────────────┘
+│  ┌──────▼──────┐ ┌─────▼──────┐ ┌─────▼───────────────┐  │
+│  │Researcher   │ │Project     │ │  Specialist Agents  │  │
+│  │Interview    │ │Interview   │ │  ├─ Matcher (5)     │  │
+│  │Agent (2)    │ │Agent (3)   │ │  ├─ TeamBuilder (6) │  │
+│  └──────┬──────┘ └─────┬──────┘ │  ├─ Proposal (7)    │  │
+│         │              │        │  ├─ Impact (8)      │  │
+│  ┌──────▼──────────────▼──────┐ │  ├─ Recommender (9) │  │
+│  │  Extraction Agent (4)      │ │  ├─ Translator (10) │  │
+│  │  Structured JSON Profiles  │ │  └─ Funding (11)    │  │
+│  └────────────────────────────┘ └─────────────────────┘  │
+│  ┌──────────────────────────────────────────────────┐    │
+│  │        SQLAlchemy / SQLite Database              │    │
+│  │  Users · Researchers · Projects · ChatSessions   │    │
+│  └──────────────────────────────────────────────────┘    │
+└──────────────────────┬───────────────────────────────────┘
                        │ MCP JSON-RPC 2.0 (port 8002)
 ┌──────────────────────▼──────────────────────────────────┐
 │              CollabBridge MCP Server                    │
 │  8 Tools: search · match · propose · impact · fund      │
-│  Compatible with Claude Desktop, ADK agents, clients   │
+│  Compatible with Claude Desktop, ADK agents, clients    │
 └─────────────────────────────────────────────────────────┘
 ```
 
