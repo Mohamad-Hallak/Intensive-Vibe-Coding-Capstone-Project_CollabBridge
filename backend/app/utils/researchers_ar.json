@@ -1,0 +1,2481 @@
+[
+  {
+    "name": "د. أحمد المصري",
+    "institution": "جامعة دمشق",
+    "country": "سوريا",
+    "department": "الهندسة المدنية",
+    "position": "أستاذ مشارك",
+    "expertise": "الهندسة الإنشائية والتصميم المقاوم للزلازل للمساكن الخرسانية منخفضة التكلفة.",
+    "keywords": [
+      "الهندسة المدنية",
+      "التحليل الإنشائي",
+      "التصميم الزلزالي",
+      "إعادة تدوير الأنقاض"
+    ],
+    "publications": [
+      "الأداء الزلزالي للخرسانة المسلحة في مناطق ما بعد النزاع (2024)",
+      "خرسانة الركام المعاد تدويرها للمساكن المحلية (2022)"
+    ],
+    "previous_projects": [
+      "التقييم الإنشائي للمباني التراثية في دمشق القديمة",
+      "مشروع ريادي لإعادة استخدام أنقاض الخرسانة في حمص"
+    ],
+    "programming_languages": [
+      "Python",
+      "MATLAB"
+    ],
+    "software_skills": [
+      "SAP2000",
+      "ETABS",
+      "AutoCAD"
+    ],
+    "laboratory_facilities": [
+      "مختبر اختبار إجهاد الخرسانة",
+      "هزاز محاكاة زلزالية"
+    ],
+    "available_time": "15 ساعة/أسبوع",
+    "funding_expectations": "تمويل جزئي",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      9,
+      11
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "العربية",
+      "الإنجليزية"
+    ],
+    "skills": [
+      "الهندسة المدنية",
+      "الهندسة المدنية",
+      "التحليل الإنشائي"
+    ]
+  },
+  {
+    "name": "د. مايا خوري",
+    "institution": "الجامعة الأمريكية في بيروت",
+    "country": "لبنان",
+    "department": "هندسة الموارد المائية",
+    "position": "أستاذ",
+    "expertise": "إدارة الجفاف، شبكات الري الذكية، وإعادة استخدام مياه الصرف الصحي في المناطق شبه الجافة.",
+    "keywords": [
+      "إدارة المياه",
+      "الري",
+      "الهيدرولوجيا",
+      "إعادة استخدام المياه"
+    ],
+    "publications": [
+      "تحسين الري بالتنقيط في المناخ المتوسطي (2023)",
+      "إعادة شحن المياه الجوفية في ظروف الجفاف (2021)"
+    ],
+    "previous_projects": [
+      "مبادرة الري بالتنقيط في سهل البقاع",
+      "إعادة تدوير المياه الرمادية في المدارس الريفية"
+    ],
+    "programming_languages": [
+      "Python",
+      "R"
+    ],
+    "software_skills": [
+      "ArcGIS",
+      "EPANET",
+      "MODFLOW"
+    ],
+    "laboratory_facilities": [
+      "مختبر فحص جودة المياه",
+      "مطياف ضوئي"
+    ],
+    "available_time": "10 ساعات/أسبوع",
+    "funding_expectations": "بدون تمويل",
+    "preferred_project_size": "Large",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      6,
+      13,
+      15
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "العربية",
+      "الإنجليزية",
+      "الفرنسية"
+    ],
+    "skills": [
+      "هندسة الموارد المائية",
+      "إدارة المياه",
+      "الري"
+    ]
+  },
+  {
+    "name": "د. سامر حداد",
+    "institution": "جامعة ميونخ التقنية",
+    "country": "ألمانيا",
+    "department": "الهندسة الكهربائية وهندسة الكمبيوتر",
+    "position": "باحث ما بعد الدكتوراه",
+    "expertise": "التحكم في الشبكات الصغيرة، أنظمة تخزين بطاريات الطاقة الشمسية، والقياس البعيد.",
+    "keywords": [
+      "الطاقة المتجددة",
+      "الشبكات الصغيرة",
+      "الطاقة الشمسية",
+      "تخزين البطاريات"
+    ],
+    "publications": [
+      "التحكم اللامركزي في الشبكات الصغيرة الكهروضوئية في القرى غير المرتبطة بالشبكة (2025)"
+    ],
+    "previous_projects": [
+      "محاكاة الشبكة الصغيرة الريفية البافارية",
+      "شبكة أكشاك الطاقة الشمسية في شرق إفريقيا"
+    ],
+    "programming_languages": [
+      "Python",
+      "C++",
+      "Julia"
+    ],
+    "software_skills": [
+      "MATLAB Simulink",
+      "HOMER Pro",
+      "PSCADA"
+    ],
+    "laboratory_facilities": [
+      "محاكي الطاقة في الحلقة الكهربائية"
+    ],
+    "available_time": "20 ساعة/أسبوع",
+    "funding_expectations": "مدعوم بمنحة",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      7,
+      13
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "العربية",
+      "الإنجليزية",
+      "الألمانية"
+    ],
+    "skills": [
+      "الهندسة الكهربائية وهندسة الكمبيوتر",
+      "الطاقة المتجددة",
+      "الشبكات الصغيرة"
+    ]
+  },
+  {
+    "name": "د. سارة ديبونت",
+    "institution": "جامعة كامبريدج",
+    "country": "المملكة المتحدة",
+    "department": "الاقتصاد العقاري",
+    "position": "محاضر أول",
+    "expertise": "التعافي الاقتصادي بعد الصراعات، حقوق الملكية الحضرية، وسياسات التمويل الأصغر.",
+    "keywords": [
+      "التنمية الاقتصادية",
+      "حقوق الملكية",
+      "التخطيط الحضري",
+      "تعافي الشركات الصغيرة والمتوسطة"
+    ],
+    "publications": [
+      "سجلات الأراضي واستعادة الملكية في دول ما بعد الصراع (2023)"
+    ],
+    "previous_projects": [
+      "التقييم الاقتصادي الحضري في الموصل",
+      "استشاري رقمنة سجلات الأراضي في البلقان"
+    ],
+    "programming_languages": [
+      "R",
+      "Stata"
+    ],
+    "software_skills": [
+      "QGIS",
+      "SPSS"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "8 ساعات/أسبوع",
+    "funding_expectations": "بدون تمويل",
+    "preferred_project_size": "Small",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      1,
+      8,
+      11
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "الإنجليزية",
+      "الفرنسية"
+    ],
+    "skills": [
+      "الاقتصاد العقاري",
+      "التنمية الاقتصادية",
+      "حقوق الملكية"
+    ]
+  },
+  {
+    "name": "المهندس طارق اليوسف",
+    "institution": "جامعة حلب",
+    "country": "سوريا",
+    "department": "الهندسة الميكانيكية",
+    "position": "محاضر وطالب دكتوراه",
+    "expertise": "تصميم الآلات منخفضة التكلفة، آلات تقطيع البلاستيك، وتقنيات التصنيع المحلية.",
+    "keywords": [
+      "التصميم الميكانيكي",
+      "إعادة تدوير البلاستيك",
+      "التصنيع المحلي"
+    ],
+    "publications": [
+      "التصنيع المحلي لآلات تقطيع إعادة التدوير صغيرة الحجم (2024)"
+    ],
+    "previous_projects": [
+      "ترميم ورشة حلب",
+      "نموذج أولي محلي لجهاز تعقيم النفايات الطبية"
+    ],
+    "programming_languages": [
+      "C",
+      "Python"
+    ],
+    "software_skills": [
+      "SolidWorks",
+      "ANSYS",
+      "AutoCAD"
+    ],
+    "laboratory_facilities": [
+      "ورشة الهندسة بجامعة حلب"
+    ],
+    "available_time": "15 ساعة/أسبوع",
+    "funding_expectations": "تمويل جزئي",
+    "preferred_project_size": "Small",
+    "remote_collaboration": false,
+    "international_collaboration": true,
+    "sdgs": [
+      9,
+      12
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "العربية",
+      "الإنجليزية"
+    ],
+    "skills": [
+      "الهندسة الميكانيكية",
+      "التصميم الميكانيكي",
+      "إعادة تدوير البلاستيك"
+    ]
+  },
+  {
+    "name": "د. حسن شاهين",
+    "institution": "جامعة دمشق",
+    "country": "سوريا",
+    "department": "علوم الكمبيوتر / الذكاء الاصطناعي",
+    "position": "أستاذ مشارك",
+    "expertise": "خبير في علوم الكمبيوتر / الذكاء الاصطناعي يركز على نظم المعلومات الجغرافية, قواعد البيانات, تصنيف الأنقاض, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "نظم المعلومات الجغرافية",
+      "قواعد البيانات",
+      "تصنيف الأنقاض",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في علوم الكمبيوتر / الذكاء الاصطناعي في الشرق الأوسط",
+      "أطر العمل المستدامة في علوم الكمبيوتر / الذكاء الاصطناعي في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول نظم المعلومات الجغرافية في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [
+      "حقيبة فحص ميدانية"
+    ],
+    "available_time": "5 ساعة/أسبوع",
+    "funding_expectations": "مدعوم بمنحة",
+    "preferred_project_size": "Small",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      1
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "العربية",
+      "الإنجليزية"
+    ],
+    "skills": [
+      "علوم الكمبيوتر / الذكاء الاصطناعي",
+      "نظم المعلومات الجغرافية",
+      "قواعد البيانات"
+    ]
+  },
+  {
+    "name": "د. رانيا صالح (مغترب)",
+    "institution": "جامعة برلين التقنية",
+    "country": "ألمانيا",
+    "department": "الهندسة المدنية",
+    "position": "باحث رئيسي",
+    "expertise": "خبير في الهندسة المدنية يركز على إعادة تدوير الخرسانة, التصميم المقاوم للزلازل, تقييم الأنقاض, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "إعادة تدوير الخرسانة",
+      "التصميم المقاوم للزلازل",
+      "تقييم الأنقاض",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في الهندسة المدنية في الشرق الأوسط",
+      "أطر العمل المستدامة في الهندسة المدنية في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول إعادة تدوير الخرسانة في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "10 ساعة/أسبوع",
+    "funding_expectations": "تمويل جزئي",
+    "preferred_project_size": "Small",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      9
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "الإنجليزية"
+    ],
+    "skills": [
+      "الهندسة المدنية",
+      "إعادة تدوير الخرسانة",
+      "التصميم المقاوم للزلازل"
+    ]
+  },
+  {
+    "name": "د. زين صالح",
+    "institution": "معهد ماساتشوستس للتقنية",
+    "country": "الولايات المتحدة",
+    "department": "الآثار والتراث",
+    "position": "أستاذ",
+    "expertise": "خبير في الآثار والتراث يركز على المسح ثلاثي الأبعاد, علم الآثار الرقمي, رقمنة المتاحف, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "المسح ثلاثي الأبعاد",
+      "علم الآثار الرقمي",
+      "رقمنة المتاحف",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في الآثار والتراث في الشرق الأوسط",
+      "أطر العمل المستدامة في الآثار والتراث في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول المسح ثلاثي الأبعاد في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [
+      "حقيبة فحص ميدانية"
+    ],
+    "available_time": "5 ساعة/أسبوع",
+    "funding_expectations": "مدعوم بمنحة",
+    "preferred_project_size": "Small",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      12
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "الإنجليزية"
+    ],
+    "skills": [
+      "الآثار والتراث",
+      "المسح ثلاثي الأبعاد",
+      "علم الآثار الرقمي"
+    ]
+  },
+  {
+    "name": "د. حسن الداغستاني (مغترب)",
+    "institution": "معهد ماساتشوستس للتقنية",
+    "country": "الولايات المتحدة",
+    "department": "الهندسة البيئية",
+    "position": "أستاذ",
+    "expertise": "خبير في الهندسة البيئية يركز على إعادة تدوير البلاستيك, تحسين المكبات, إدارة النفايات الصلبة, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "إعادة تدوير البلاستيك",
+      "تحسين المكبات",
+      "إدارة النفايات الصلبة",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في الهندسة البيئية في الشرق الأوسط",
+      "أطر العمل المستدامة في الهندسة البيئية في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول إعادة تدوير البلاستيك في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [
+      "حقيبة فحص ميدانية"
+    ],
+    "available_time": "10 ساعة/أسبوع",
+    "funding_expectations": "بدون تمويل",
+    "preferred_project_size": "Small",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      8
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "الإنجليزية"
+    ],
+    "skills": [
+      "الهندسة البيئية",
+      "إعادة تدوير البلاستيك",
+      "تحسين المكبات"
+    ]
+  },
+  {
+    "name": "د. حسن رزق",
+    "institution": "جامعة حلب",
+    "country": "سوريا",
+    "department": "العلوم الزراعية",
+    "position": "باحث رئيسي",
+    "expertise": "خبير في العلوم الزراعية يركز على إنتاج زيت الزيتون, المحاصيل المقاومة للجفاف, الزراعة الدقيقة, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "إنتاج زيت الزيتون",
+      "المحاصيل المقاومة للجفاف",
+      "الزراعة الدقيقة",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في العلوم الزراعية في الشرق الأوسط",
+      "أطر العمل المستدامة في العلوم الزراعية في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول إنتاج زيت الزيتون في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [
+      "حقيبة فحص ميدانية"
+    ],
+    "available_time": "20 ساعة/أسبوع",
+    "funding_expectations": "تمويل جزئي",
+    "preferred_project_size": "Large",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      8
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "العربية",
+      "الإنجليزية"
+    ],
+    "skills": [
+      "العلوم الزراعية",
+      "إنتاج زيت الزيتون",
+      "المحاصيل المقاومة للجفاف"
+    ]
+  },
+  {
+    "name": "د. غالية عساف",
+    "institution": "جامعة دمشق",
+    "country": "سوريا",
+    "department": "العلوم الطبية / الطب عن بعد",
+    "position": "أستاذ",
+    "expertise": "خبير في العلوم الطبية / الطب عن بعد يركز على التشخيص الريفي, العيادات المتنقلة, قواعد بيانات الصحة, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "التشخيص الريفي",
+      "العيادات المتنقلة",
+      "قواعد بيانات الصحة",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في العلوم الطبية / الطب عن بعد في الشرق الأوسط",
+      "أطر العمل المستدامة في العلوم الطبية / الطب عن بعد في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول التشخيص الريفي في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [
+      "حقيبة فحص ميدانية"
+    ],
+    "available_time": "5 ساعة/أسبوع",
+    "funding_expectations": "بدون تمويل",
+    "preferred_project_size": "Small",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      15
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "العربية",
+      "الإنجليزية"
+    ],
+    "skills": [
+      "العلوم الطبية / الطب عن بعد",
+      "التشخيص الريفي",
+      "العيادات المتنقلة"
+    ]
+  },
+  {
+    "name": "د. نور سليمان",
+    "institution": "جامعة الشارقة",
+    "country": "الإمارات",
+    "department": "العلوم الزراعية",
+    "position": "أستاذ مشارك",
+    "expertise": "خبير في العلوم الزراعية يركز على البيوت الزجاجية الذكية, الزراعة الدقيقة, إنتاج زيت الزيتون, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "البيوت الزجاجية الذكية",
+      "الزراعة الدقيقة",
+      "إنتاج زيت الزيتون",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في العلوم الزراعية في الشرق الأوسط",
+      "أطر العمل المستدامة في العلوم الزراعية في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول البيوت الزجاجية الذكية في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "R",
+      "MATLAB"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [
+      "حقيبة فحص ميدانية"
+    ],
+    "available_time": "20 ساعة/أسبوع",
+    "funding_expectations": "تمويل جزئي",
+    "preferred_project_size": "Small",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      1
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "العربية",
+      "الإنجليزية"
+    ],
+    "skills": [
+      "العلوم الزراعية",
+      "البيوت الزجاجية الذكية",
+      "الزراعة الدقيقة"
+    ]
+  },
+  {
+    "name": "د. زين البيطار",
+    "institution": "جامعة تشرين",
+    "country": "سوريا",
+    "department": "الآثار والتراث",
+    "position": "باحث رئيسي",
+    "expertise": "خبير في الآثار والتراث يركز على ترميم التراث, علم الآثار الرقمي, المسح ثلاثي الأبعاد, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "ترميم التراث",
+      "علم الآثار الرقمي",
+      "المسح ثلاثي الأبعاد",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في الآثار والتراث في الشرق الأوسط",
+      "أطر العمل المستدامة في الآثار والتراث في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول ترميم التراث في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "R",
+      "MATLAB"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [
+      "حقيبة فحص ميدانية"
+    ],
+    "available_time": "20 ساعة/أسبوع",
+    "funding_expectations": "مدعوم بمنحة",
+    "preferred_project_size": "Large",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      3
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "العربية",
+      "الإنجليزية"
+    ],
+    "skills": [
+      "الآثار والتراث",
+      "ترميم التراث",
+      "علم الآثار الرقمي"
+    ]
+  },
+  {
+    "name": "د. حسن قباني (مغترب)",
+    "institution": "جامعة السوربون",
+    "country": "فرنسا",
+    "department": "الطاقة المتجددة",
+    "position": "أستاذ",
+    "expertise": "خبير في الطاقة المتجددة يركز على طاقة الرياح, الشبكات الصغيرة, الخلايا الشمسية, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "طاقة الرياح",
+      "الشبكات الصغيرة",
+      "الخلايا الشمسية",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في الطاقة المتجددة في الشرق الأوسط",
+      "أطر العمل المستدامة في الطاقة المتجددة في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول طاقة الرياح في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "20 ساعة/أسبوع",
+    "funding_expectations": "بدون تمويل",
+    "preferred_project_size": "Large",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      4
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "العربية",
+      "الإنجليزية"
+    ],
+    "skills": [
+      "الطاقة المتجددة",
+      "طاقة الرياح",
+      "الشبكات الصغيرة"
+    ]
+  },
+  {
+    "name": "د. رانيا البيطار (مغترب)",
+    "institution": "جامعة السوربون",
+    "country": "فرنسا",
+    "department": "العلوم الطبية / الطب عن بعد",
+    "position": "أستاذ مشارك",
+    "expertise": "خبير في العلوم الطبية / الطب عن بعد يركز على التشخيص الريفي, الرعاية الصحية عن بعد, قواعد بيانات الصحة, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "التشخيص الريفي",
+      "الرعاية الصحية عن بعد",
+      "قواعد بيانات الصحة",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في العلوم الطبية / الطب عن بعد في الشرق الأوسط",
+      "أطر العمل المستدامة في العلوم الطبية / الطب عن بعد في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول التشخيص الريفي في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "R",
+      "MATLAB"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [
+      "حقيبة فحص ميدانية"
+    ],
+    "available_time": "15 ساعة/أسبوع",
+    "funding_expectations": "تمويل جزئي",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      6
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "الإنجليزية"
+    ],
+    "skills": [
+      "العلوم الطبية / الطب عن بعد",
+      "التشخيص الريفي",
+      "الرعاية الصحية عن بعد"
+    ]
+  },
+  {
+    "name": "د. عدنان الداغستاني",
+    "institution": "جامعة حلب",
+    "country": "سوريا",
+    "department": "الهندسة البيئية",
+    "position": "طالب دكتوراه",
+    "expertise": "خبير في الهندسة البيئية يركز على إدارة النفايات الصلبة, تنقية المياه, تحسين المكبات, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "إدارة النفايات الصلبة",
+      "تنقية المياه",
+      "تحسين المكبات",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في الهندسة البيئية في الشرق الأوسط",
+      "أطر العمل المستدامة في الهندسة البيئية في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول إدارة النفايات الصلبة في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "10 ساعة/أسبوع",
+    "funding_expectations": "مدعوم بمنحة",
+    "preferred_project_size": "Large",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      9
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "العربية",
+      "الإنجليزية"
+    ],
+    "skills": [
+      "الهندسة البيئية",
+      "إدارة النفايات الصلبة",
+      "تنقية المياه"
+    ]
+  },
+  {
+    "name": "د. لينا قباني (مغترب)",
+    "institution": "جامعة برلين التقنية",
+    "country": "ألمانيا",
+    "department": "الآثار والتراث",
+    "position": "أستاذ مساعد",
+    "expertise": "خبير في الآثار والتراث يركز على رقمنة المتاحف, المسح ثلاثي الأبعاد, علم الآثار الرقمي, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "رقمنة المتاحف",
+      "المسح ثلاثي الأبعاد",
+      "علم الآثار الرقمي",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في الآثار والتراث في الشرق الأوسط",
+      "أطر العمل المستدامة في الآثار والتراث في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول رقمنة المتاحف في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "R",
+      "MATLAB"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [
+      "حقيبة فحص ميدانية"
+    ],
+    "available_time": "5 ساعة/أسبوع",
+    "funding_expectations": "بدون تمويل",
+    "preferred_project_size": "Small",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      13
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "الإنجليزية"
+    ],
+    "skills": [
+      "الآثار والتراث",
+      "رقمنة المتاحف",
+      "المسح ثلاثي الأبعاد"
+    ]
+  },
+  {
+    "name": "د. رانيا غانم",
+    "institution": "جامعة دمشق",
+    "country": "سوريا",
+    "department": "العلوم الطبية / الطب عن بعد",
+    "position": "أستاذ",
+    "expertise": "خبير في العلوم الطبية / الطب عن بعد يركز على الرعاية الصحية عن بعد, العيادات المتنقلة, قواعد بيانات الصحة, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "الرعاية الصحية عن بعد",
+      "العيادات المتنقلة",
+      "قواعد بيانات الصحة",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في العلوم الطبية / الطب عن بعد في الشرق الأوسط",
+      "أطر العمل المستدامة في العلوم الطبية / الطب عن بعد في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول الرعاية الصحية عن بعد في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "10 ساعة/أسبوع",
+    "funding_expectations": "تمويل جزئي",
+    "preferred_project_size": "Large",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      13
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "العربية",
+      "الإنجليزية"
+    ],
+    "skills": [
+      "العلوم الطبية / الطب عن بعد",
+      "الرعاية الصحية عن بعد",
+      "العيادات المتنقلة"
+    ]
+  },
+  {
+    "name": "د. نور صالح (مغترب)",
+    "institution": "جامعة الشارقة",
+    "country": "الإمارات",
+    "department": "العلوم الطبية / الطب عن بعد",
+    "position": "أستاذ",
+    "expertise": "خبير في العلوم الطبية / الطب عن بعد يركز على الرعاية الصحية عن بعد, التشخيص الريفي, العيادات المتنقلة, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "الرعاية الصحية عن بعد",
+      "التشخيص الريفي",
+      "العيادات المتنقلة",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في العلوم الطبية / الطب عن بعد في الشرق الأوسط",
+      "أطر العمل المستدامة في العلوم الطبية / الطب عن بعد في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول الرعاية الصحية عن بعد في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "15 ساعة/أسبوع",
+    "funding_expectations": "تمويل جزئي",
+    "preferred_project_size": "Large",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      15
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "الإنجليزية"
+    ],
+    "skills": [
+      "العلوم الطبية / الطب عن بعد",
+      "الرعاية الصحية عن بعد",
+      "التشخيص الريفي"
+    ]
+  },
+  {
+    "name": "د. كرم غانم (مغترب)",
+    "institution": "معهد ماساتشوستس للتقنية",
+    "country": "الولايات المتحدة",
+    "department": "الهندسة البيئية",
+    "position": "أستاذ مشارك",
+    "expertise": "خبير في الهندسة البيئية يركز على إعادة تدوير البلاستيك, إدارة النفايات الصلبة, تحسين المكبات, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "إعادة تدوير البلاستيك",
+      "إدارة النفايات الصلبة",
+      "تحسين المكبات",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في الهندسة البيئية في الشرق الأوسط",
+      "أطر العمل المستدامة في الهندسة البيئية في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول إعادة تدوير البلاستيك في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "R",
+      "MATLAB"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [
+      "حقيبة فحص ميدانية"
+    ],
+    "available_time": "10 ساعة/أسبوع",
+    "funding_expectations": "تمويل جزئي",
+    "preferred_project_size": "Small",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      11
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "العربية",
+      "الإنجليزية"
+    ],
+    "skills": [
+      "الهندسة البيئية",
+      "إعادة تدوير البلاستيك",
+      "إدارة النفايات الصلبة"
+    ]
+  },
+  {
+    "name": "د. غالية قباني",
+    "institution": "جامعة حلب",
+    "country": "سوريا",
+    "department": "الهندسة المدنية",
+    "position": "باحث رئيسي",
+    "expertise": "خبير في الهندسة المدنية يركز على التحليل الإنشائي, تقييم الأنقاض, التصميم المقاوم للزلازل, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "التحليل الإنشائي",
+      "تقييم الأنقاض",
+      "التصميم المقاوم للزلازل",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في الهندسة المدنية في الشرق الأوسط",
+      "أطر العمل المستدامة في الهندسة المدنية في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول التحليل الإنشائي في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "10 ساعة/أسبوع",
+    "funding_expectations": "تمويل جزئي",
+    "preferred_project_size": "Small",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      4
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "العربية",
+      "الإنجليزية"
+    ],
+    "skills": [
+      "الهندسة المدنية",
+      "التحليل الإنشائي",
+      "تقييم الأنقاض"
+    ]
+  },
+  {
+    "name": "د. كرم العلي",
+    "institution": "الجامعة الأردنية",
+    "country": "الأردن",
+    "department": "الاقتصاد والسياسات",
+    "position": "أستاذ مساعد",
+    "expertise": "خبير في الاقتصاد والسياسات يركز على لوجستيات الإمداد, القروض الصغيرة, توظيف الشباب, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "لوجستيات الإمداد",
+      "القروض الصغيرة",
+      "توظيف الشباب",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في الاقتصاد والسياسات في الشرق الأوسط",
+      "أطر العمل المستدامة في الاقتصاد والسياسات في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول لوجستيات الإمداد في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "R",
+      "MATLAB"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [
+      "حقيبة فحص ميدانية"
+    ],
+    "available_time": "10 ساعة/أسبوع",
+    "funding_expectations": "بدون تمويل",
+    "preferred_project_size": "Large",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      1
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "العربية",
+      "الإنجليزية"
+    ],
+    "skills": [
+      "الاقتصاد والسياسات",
+      "لوجستيات الإمداد",
+      "القروض الصغيرة"
+    ]
+  },
+  {
+    "name": "د. فراس العلي (مغترب)",
+    "institution": "جامعة الشارقة",
+    "country": "الإمارات",
+    "department": "العلوم الزراعية",
+    "position": "أستاذ",
+    "expertise": "خبير في العلوم الزراعية يركز على المحاصيل المقاومة للجفاف, الزراعة الدقيقة, البيوت الزجاجية الذكية, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "المحاصيل المقاومة للجفاف",
+      "الزراعة الدقيقة",
+      "البيوت الزجاجية الذكية",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في العلوم الزراعية في الشرق الأوسط",
+      "أطر العمل المستدامة في العلوم الزراعية في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول المحاصيل المقاومة للجفاف في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [
+      "حقيبة فحص ميدانية"
+    ],
+    "available_time": "5 ساعة/أسبوع",
+    "funding_expectations": "مدعوم بمنحة",
+    "preferred_project_size": "Large",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      6
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "العربية",
+      "الإنجليزية"
+    ],
+    "skills": [
+      "العلوم الزراعية",
+      "المحاصيل المقاومة للجفاف",
+      "الزراعة الدقيقة"
+    ]
+  },
+  {
+    "name": "د. فراس الداغستاني",
+    "institution": "جامعة حلب",
+    "country": "سوريا",
+    "department": "الآثار والتراث",
+    "position": "باحث رئيسي",
+    "expertise": "خبير في الآثار والتراث يركز على المسح ثلاثي الأبعاد, علم الآثار الرقمي, ترميم التراث, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "المسح ثلاثي الأبعاد",
+      "علم الآثار الرقمي",
+      "ترميم التراث",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في الآثار والتراث في الشرق الأوسط",
+      "أطر العمل المستدامة في الآثار والتراث في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول المسح ثلاثي الأبعاد في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "R",
+      "MATLAB"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [
+      "حقيبة فحص ميدانية"
+    ],
+    "available_time": "15 ساعة/أسبوع",
+    "funding_expectations": "بدون تمويل",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      8
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "العربية",
+      "الإنجليزية"
+    ],
+    "skills": [
+      "الآثار والتراث",
+      "المسح ثلاثي الأبعاد",
+      "علم الآثار الرقمي"
+    ]
+  },
+  {
+    "name": "د. عدنان عساف",
+    "institution": "جامعة حلب",
+    "country": "سوريا",
+    "department": "الهندسة المدنية",
+    "position": "طالب دكتوراه",
+    "expertise": "خبير في الهندسة المدنية يركز على التحليل الإنشائي, تقييم الأنقاض, التصميم المقاوم للزلازل, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "التحليل الإنشائي",
+      "تقييم الأنقاض",
+      "التصميم المقاوم للزلازل",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في الهندسة المدنية في الشرق الأوسط",
+      "أطر العمل المستدامة في الهندسة المدنية في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول التحليل الإنشائي في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [
+      "حقيبة فحص ميدانية"
+    ],
+    "available_time": "15 ساعة/أسبوع",
+    "funding_expectations": "بدون تمويل",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      7
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "العربية",
+      "الإنجليزية"
+    ],
+    "skills": [
+      "الهندسة المدنية",
+      "التحليل الإنشائي",
+      "تقييم الأنقاض"
+    ]
+  },
+  {
+    "name": "د. زين جرادي (مغترب)",
+    "institution": "المعهد الملكي للتكنولوجيا",
+    "country": "السويد",
+    "department": "الهندسة المدنية",
+    "position": "باحث رئيسي",
+    "expertise": "خبير في الهندسة المدنية يركز على التصميم المقاوم للزلازل, تقييم الأنقاض, التحليل الإنشائي, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "التصميم المقاوم للزلازل",
+      "تقييم الأنقاض",
+      "التحليل الإنشائي",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في الهندسة المدنية في الشرق الأوسط",
+      "أطر العمل المستدامة في الهندسة المدنية في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول التصميم المقاوم للزلازل في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "R",
+      "MATLAB"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [
+      "حقيبة فحص ميدانية"
+    ],
+    "available_time": "10 ساعة/أسبوع",
+    "funding_expectations": "تمويل جزئي",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      7
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "العربية",
+      "الإنجليزية"
+    ],
+    "skills": [
+      "الهندسة المدنية",
+      "التصميم المقاوم للزلازل",
+      "تقييم الأنقاض"
+    ]
+  },
+  {
+    "name": "د. سلمى الحريري (مغترب)",
+    "institution": "جامعة برلين التقنية",
+    "country": "ألمانيا",
+    "department": "علوم الكمبيوتر / الذكاء الاصطناعي",
+    "position": "باحث رئيسي",
+    "expertise": "خبير في علوم الكمبيوتر / الذكاء الاصطناعي يركز على الخوادم الطرفية, تصنيف الأنقاض, الرؤية الحاسوبية, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "الخوادم الطرفية",
+      "تصنيف الأنقاض",
+      "الرؤية الحاسوبية",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في علوم الكمبيوتر / الذكاء الاصطناعي في الشرق الأوسط",
+      "أطر العمل المستدامة في علوم الكمبيوتر / الذكاء الاصطناعي في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول الخوادم الطرفية في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "5 ساعة/أسبوع",
+    "funding_expectations": "مدعوم بمنحة",
+    "preferred_project_size": "Small",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      15
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "العربية",
+      "الإنجليزية"
+    ],
+    "skills": [
+      "علوم الكمبيوتر / الذكاء الاصطناعي",
+      "الخوادم الطرفية",
+      "تصنيف الأنقاض"
+    ]
+  },
+  {
+    "name": "د. زين غانم (مغترب)",
+    "institution": "جامعة الشارقة",
+    "country": "الإمارات",
+    "department": "الآثار والتراث",
+    "position": "باحث رئيسي",
+    "expertise": "خبير في الآثار والتراث يركز على ترميم التراث, رقمنة المتاحف, المسح ثلاثي الأبعاد, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "ترميم التراث",
+      "رقمنة المتاحف",
+      "المسح ثلاثي الأبعاد",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في الآثار والتراث في الشرق الأوسط",
+      "أطر العمل المستدامة في الآثار والتراث في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول ترميم التراث في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "R",
+      "MATLAB"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [
+      "حقيبة فحص ميدانية"
+    ],
+    "available_time": "10 ساعة/أسبوع",
+    "funding_expectations": "مدعوم بمنحة",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      4
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "الإنجليزية"
+    ],
+    "skills": [
+      "الآثار والتراث",
+      "ترميم التراث",
+      "رقمنة المتاحف"
+    ]
+  },
+  {
+    "name": "د. هدى عساف",
+    "institution": "جامعة دمشق",
+    "country": "سوريا",
+    "department": "الطاقة المتجددة",
+    "position": "أستاذ مشارك",
+    "expertise": "خبير في الطاقة المتجددة يركز على الشبكات الصغيرة, طاقة الرياح, الخلايا الشمسية, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "الشبكات الصغيرة",
+      "طاقة الرياح",
+      "الخلايا الشمسية",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في الطاقة المتجددة في الشرق الأوسط",
+      "أطر العمل المستدامة في الطاقة المتجددة في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول الشبكات الصغيرة في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [
+      "حقيبة فحص ميدانية"
+    ],
+    "available_time": "15 ساعة/أسبوع",
+    "funding_expectations": "مدعوم بمنحة",
+    "preferred_project_size": "Small",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      6
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "العربية",
+      "الإنجليزية"
+    ],
+    "skills": [
+      "الطاقة المتجددة",
+      "الشبكات الصغيرة",
+      "طاقة الرياح"
+    ]
+  },
+  {
+    "name": "د. غالية فارس",
+    "institution": "جامعة تشرين",
+    "country": "سوريا",
+    "department": "الآثار والتراث",
+    "position": "أستاذ",
+    "expertise": "خبير في الآثار والتراث يركز على علم الآثار الرقمي, المسح ثلاثي الأبعاد, رقمنة المتاحف, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "علم الآثار الرقمي",
+      "المسح ثلاثي الأبعاد",
+      "رقمنة المتاحف",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في الآثار والتراث في الشرق الأوسط",
+      "أطر العمل المستدامة في الآثار والتراث في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول علم الآثار الرقمي في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "20 ساعة/أسبوع",
+    "funding_expectations": "مدعوم بمنحة",
+    "preferred_project_size": "Large",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      3
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "العربية",
+      "الإنجليزية"
+    ],
+    "skills": [
+      "الآثار والتراث",
+      "علم الآثار الرقمي",
+      "المسح ثلاثي الأبعاد"
+    ]
+  },
+  {
+    "name": "د. كرم العلي",
+    "institution": "جامعة الشارقة",
+    "country": "الإمارات",
+    "department": "الاقتصاد والسياسات",
+    "position": "أستاذ مساعد",
+    "expertise": "خبير في الاقتصاد والسياسات يركز على القروض الصغيرة, تعافي المشاريع, لوجستيات الإمداد, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "القروض الصغيرة",
+      "تعافي المشاريع",
+      "لوجستيات الإمداد",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في الاقتصاد والسياسات في الشرق الأوسط",
+      "أطر العمل المستدامة في الاقتصاد والسياسات في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول القروض الصغيرة في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "R",
+      "MATLAB"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [
+      "حقيبة فحص ميدانية"
+    ],
+    "available_time": "5 ساعة/أسبوع",
+    "funding_expectations": "مدعوم بمنحة",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      8
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "العربية",
+      "الإنجليزية"
+    ],
+    "skills": [
+      "الاقتصاد والسياسات",
+      "القروض الصغيرة",
+      "تعافي المشاريع"
+    ]
+  },
+  {
+    "name": "د. كرم البيطار",
+    "institution": "المعهد الملكي للتكنولوجيا",
+    "country": "السويد",
+    "department": "الهندسة المدنية",
+    "position": "أستاذ",
+    "expertise": "خبير في الهندسة المدنية يركز على التصميم المقاوم للزلازل, التحليل الإنشائي, إعادة تدوير الخرسانة, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "التصميم المقاوم للزلازل",
+      "التحليل الإنشائي",
+      "إعادة تدوير الخرسانة",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في الهندسة المدنية في الشرق الأوسط",
+      "أطر العمل المستدامة في الهندسة المدنية في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول التصميم المقاوم للزلازل في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [
+      "حقيبة فحص ميدانية"
+    ],
+    "available_time": "5 ساعة/أسبوع",
+    "funding_expectations": "بدون تمويل",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      13
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "العربية",
+      "الإنجليزية"
+    ],
+    "skills": [
+      "الهندسة المدنية",
+      "التصميم المقاوم للزلازل",
+      "التحليل الإنشائي"
+    ]
+  },
+  {
+    "name": "د. رانيا سليمان",
+    "institution": "جامعة برلين التقنية",
+    "country": "ألمانيا",
+    "department": "الآثار والتراث",
+    "position": "أستاذ",
+    "expertise": "خبير في الآثار والتراث يركز على علم الآثار الرقمي, رقمنة المتاحف, المسح ثلاثي الأبعاد, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "علم الآثار الرقمي",
+      "رقمنة المتاحف",
+      "المسح ثلاثي الأبعاد",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في الآثار والتراث في الشرق الأوسط",
+      "أطر العمل المستدامة في الآثار والتراث في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول علم الآثار الرقمي في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [
+      "حقيبة فحص ميدانية"
+    ],
+    "available_time": "5 ساعة/أسبوع",
+    "funding_expectations": "مدعوم بمنحة",
+    "preferred_project_size": "Small",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      7
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "العربية",
+      "الإنجليزية"
+    ],
+    "skills": [
+      "الآثار والتراث",
+      "علم الآثار الرقمي",
+      "رقمنة المتاحف"
+    ]
+  },
+  {
+    "name": "د. حسن سليمان",
+    "institution": "معهد ماساتشوستس للتقنية",
+    "country": "الولايات المتحدة",
+    "department": "علوم الكمبيوتر / الذكاء الاصطناعي",
+    "position": "باحث رئيسي",
+    "expertise": "خبير في علوم الكمبيوتر / الذكاء الاصطناعي يركز على نظم المعلومات الجغرافية, قواعد البيانات, الخوادم الطرفية, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "نظم المعلومات الجغرافية",
+      "قواعد البيانات",
+      "الخوادم الطرفية",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في علوم الكمبيوتر / الذكاء الاصطناعي في الشرق الأوسط",
+      "أطر العمل المستدامة في علوم الكمبيوتر / الذكاء الاصطناعي في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول نظم المعلومات الجغرافية في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [
+      "حقيبة فحص ميدانية"
+    ],
+    "available_time": "20 ساعة/أسبوع",
+    "funding_expectations": "مدعوم بمنحة",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      12
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "العربية",
+      "الإنجليزية"
+    ],
+    "skills": [
+      "علوم الكمبيوتر / الذكاء الاصطناعي",
+      "نظم المعلومات الجغرافية",
+      "قواعد البيانات"
+    ]
+  },
+  {
+    "name": "د. بسام رزق",
+    "institution": "جامعة برلين التقنية",
+    "country": "ألمانيا",
+    "department": "الطاقة المتجددة",
+    "position": "طالب دكتوراه",
+    "expertise": "خبير في الطاقة المتجددة يركز على تخزين البطاريات, الشبكات الصغيرة, الخلايا الشمسية, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "تخزين البطاريات",
+      "الشبكات الصغيرة",
+      "الخلايا الشمسية",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في الطاقة المتجددة في الشرق الأوسط",
+      "أطر العمل المستدامة في الطاقة المتجددة في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول تخزين البطاريات في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "R",
+      "MATLAB"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [
+      "حقيبة فحص ميدانية"
+    ],
+    "available_time": "20 ساعة/أسبوع",
+    "funding_expectations": "مدعوم بمنحة",
+    "preferred_project_size": "Large",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      13
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "الإنجليزية"
+    ],
+    "skills": [
+      "الطاقة المتجددة",
+      "تخزين البطاريات",
+      "الشبكات الصغيرة"
+    ]
+  },
+  {
+    "name": "د. غالية عساف (مغترب)",
+    "institution": "جامعة برلين التقنية",
+    "country": "ألمانيا",
+    "department": "العلوم الطبية / الطب عن بعد",
+    "position": "أستاذ مشارك",
+    "expertise": "خبير في العلوم الطبية / الطب عن بعد يركز على العيادات المتنقلة, الرعاية الصحية عن بعد, التشخيص الريفي, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "العيادات المتنقلة",
+      "الرعاية الصحية عن بعد",
+      "التشخيص الريفي",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في العلوم الطبية / الطب عن بعد في الشرق الأوسط",
+      "أطر العمل المستدامة في العلوم الطبية / الطب عن بعد في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول العيادات المتنقلة في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "10 ساعة/أسبوع",
+    "funding_expectations": "تمويل جزئي",
+    "preferred_project_size": "Large",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      13
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "الإنجليزية"
+    ],
+    "skills": [
+      "العلوم الطبية / الطب عن بعد",
+      "العيادات المتنقلة",
+      "الرعاية الصحية عن بعد"
+    ]
+  },
+  {
+    "name": "د. سلمى سليمان",
+    "institution": "جامعة الشارقة",
+    "country": "الإمارات",
+    "department": "العلوم الزراعية",
+    "position": "أستاذ",
+    "expertise": "خبير في العلوم الزراعية يركز على المحاصيل المقاومة للجفاف, إنتاج زيت الزيتون, الزراعة الدقيقة, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "المحاصيل المقاومة للجفاف",
+      "إنتاج زيت الزيتون",
+      "الزراعة الدقيقة",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في العلوم الزراعية في الشرق الأوسط",
+      "أطر العمل المستدامة في العلوم الزراعية في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول المحاصيل المقاومة للجفاف في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "10 ساعة/أسبوع",
+    "funding_expectations": "مدعوم بمنحة",
+    "preferred_project_size": "Small",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      11
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "الإنجليزية"
+    ],
+    "skills": [
+      "العلوم الزراعية",
+      "المحاصيل المقاومة للجفاف",
+      "إنتاج زيت الزيتون"
+    ]
+  },
+  {
+    "name": "د. نور البيطار (مغترب)",
+    "institution": "المعهد الملكي للتكنولوجيا",
+    "country": "السويد",
+    "department": "الطاقة المتجددة",
+    "position": "طالب دكتوراه",
+    "expertise": "خبير في الطاقة المتجددة يركز على تخزين البطاريات, طاقة الرياح, الشبكات الصغيرة, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "تخزين البطاريات",
+      "طاقة الرياح",
+      "الشبكات الصغيرة",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في الطاقة المتجددة في الشرق الأوسط",
+      "أطر العمل المستدامة في الطاقة المتجددة في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول تخزين البطاريات في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [
+      "حقيبة فحص ميدانية"
+    ],
+    "available_time": "10 ساعة/أسبوع",
+    "funding_expectations": "مدعوم بمنحة",
+    "preferred_project_size": "Large",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      7
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "العربية",
+      "الإنجليزية"
+    ],
+    "skills": [
+      "الطاقة المتجددة",
+      "تخزين البطاريات",
+      "طاقة الرياح"
+    ]
+  },
+  {
+    "name": "د. رياض جرادي",
+    "institution": "جامعة برلين التقنية",
+    "country": "ألمانيا",
+    "department": "الهندسة البيئية",
+    "position": "أستاذ مساعد",
+    "expertise": "خبير في الهندسة البيئية يركز على إعادة تدوير البلاستيك, تحسين المكبات, تنقية المياه, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "إعادة تدوير البلاستيك",
+      "تحسين المكبات",
+      "تنقية المياه",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في الهندسة البيئية في الشرق الأوسط",
+      "أطر العمل المستدامة في الهندسة البيئية في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول إعادة تدوير البلاستيك في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "R",
+      "MATLAB"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "15 ساعة/أسبوع",
+    "funding_expectations": "مدعوم بمنحة",
+    "preferred_project_size": "Small",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      6
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "الإنجليزية"
+    ],
+    "skills": [
+      "الهندسة البيئية",
+      "إعادة تدوير البلاستيك",
+      "تحسين المكبات"
+    ]
+  },
+  {
+    "name": "د. كرم الحريري",
+    "institution": "المعهد الملكي للتكنولوجيا",
+    "country": "السويد",
+    "department": "الهندسة المدنية",
+    "position": "أستاذ مشارك",
+    "expertise": "خبير في الهندسة المدنية يركز على تقييم الأنقاض, إعادة تدوير الخرسانة, التحليل الإنشائي, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "تقييم الأنقاض",
+      "إعادة تدوير الخرسانة",
+      "التحليل الإنشائي",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في الهندسة المدنية في الشرق الأوسط",
+      "أطر العمل المستدامة في الهندسة المدنية في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول تقييم الأنقاض في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "R",
+      "MATLAB"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [
+      "حقيبة فحص ميدانية"
+    ],
+    "available_time": "20 ساعة/أسبوع",
+    "funding_expectations": "تمويل جزئي",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      12
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "العربية",
+      "الإنجليزية"
+    ],
+    "skills": [
+      "الهندسة المدنية",
+      "تقييم الأنقاض",
+      "إعادة تدوير الخرسانة"
+    ]
+  },
+  {
+    "name": "د. رياض عساف",
+    "institution": "جامعة برلين التقنية",
+    "country": "ألمانيا",
+    "department": "علوم الكمبيوتر / الذكاء الاصطناعي",
+    "position": "طالب دكتوراه",
+    "expertise": "خبير في علوم الكمبيوتر / الذكاء الاصطناعي يركز على الخوادم الطرفية, الرؤية الحاسوبية, نظم المعلومات الجغرافية, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "الخوادم الطرفية",
+      "الرؤية الحاسوبية",
+      "نظم المعلومات الجغرافية",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في علوم الكمبيوتر / الذكاء الاصطناعي في الشرق الأوسط",
+      "أطر العمل المستدامة في علوم الكمبيوتر / الذكاء الاصطناعي في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول الخوادم الطرفية في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "15 ساعة/أسبوع",
+    "funding_expectations": "مدعوم بمنحة",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      4
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "العربية",
+      "الإنجليزية"
+    ],
+    "skills": [
+      "علوم الكمبيوتر / الذكاء الاصطناعي",
+      "الخوادم الطرفية",
+      "الرؤية الحاسوبية"
+    ]
+  },
+  {
+    "name": "د. رياض العلي (مغترب)",
+    "institution": "الجامعة الأردنية",
+    "country": "الأردن",
+    "department": "الهندسة المدنية",
+    "position": "أستاذ",
+    "expertise": "خبير في الهندسة المدنية يركز على تقييم الأنقاض, التحليل الإنشائي, إعادة تدوير الخرسانة, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "تقييم الأنقاض",
+      "التحليل الإنشائي",
+      "إعادة تدوير الخرسانة",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في الهندسة المدنية في الشرق الأوسط",
+      "أطر العمل المستدامة في الهندسة المدنية في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول تقييم الأنقاض في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "R",
+      "MATLAB"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "10 ساعة/أسبوع",
+    "funding_expectations": "بدون تمويل",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      9
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "الإنجليزية"
+    ],
+    "skills": [
+      "الهندسة المدنية",
+      "تقييم الأنقاض",
+      "التحليل الإنشائي"
+    ]
+  },
+  {
+    "name": "د. غالية سليمان (مغترب)",
+    "institution": "جامعة السوربون",
+    "country": "فرنسا",
+    "department": "الاقتصاد والسياسات",
+    "position": "أستاذ",
+    "expertise": "خبير في الاقتصاد والسياسات يركز على تعافي المشاريع, توظيف الشباب, لوجستيات الإمداد, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "تعافي المشاريع",
+      "توظيف الشباب",
+      "لوجستيات الإمداد",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في الاقتصاد والسياسات في الشرق الأوسط",
+      "أطر العمل المستدامة في الاقتصاد والسياسات في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول تعافي المشاريع في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "R",
+      "MATLAB"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "5 ساعة/أسبوع",
+    "funding_expectations": "مدعوم بمنحة",
+    "preferred_project_size": "Small",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      13
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "الإنجليزية"
+    ],
+    "skills": [
+      "الاقتصاد والسياسات",
+      "تعافي المشاريع",
+      "توظيف الشباب"
+    ]
+  },
+  {
+    "name": "د. زين جرادي",
+    "institution": "جامعة حلب",
+    "country": "سوريا",
+    "department": "العلوم الطبية / الطب عن بعد",
+    "position": "طالب دكتوراه",
+    "expertise": "خبير في العلوم الطبية / الطب عن بعد يركز على التشخيص الريفي, العيادات المتنقلة, الرعاية الصحية عن بعد, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "التشخيص الريفي",
+      "العيادات المتنقلة",
+      "الرعاية الصحية عن بعد",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في العلوم الطبية / الطب عن بعد في الشرق الأوسط",
+      "أطر العمل المستدامة في العلوم الطبية / الطب عن بعد في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول التشخيص الريفي في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "5 ساعة/أسبوع",
+    "funding_expectations": "بدون تمويل",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      13
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "العربية",
+      "الإنجليزية"
+    ],
+    "skills": [
+      "العلوم الطبية / الطب عن بعد",
+      "التشخيص الريفي",
+      "العيادات المتنقلة"
+    ]
+  },
+  {
+    "name": "د. حسن سليمان (مغترب)",
+    "institution": "الجامعة الأردنية",
+    "country": "الأردن",
+    "department": "العلوم الطبية / الطب عن بعد",
+    "position": "أستاذ",
+    "expertise": "خبير في العلوم الطبية / الطب عن بعد يركز على العيادات المتنقلة, الرعاية الصحية عن بعد, قواعد بيانات الصحة, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "العيادات المتنقلة",
+      "الرعاية الصحية عن بعد",
+      "قواعد بيانات الصحة",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في العلوم الطبية / الطب عن بعد في الشرق الأوسط",
+      "أطر العمل المستدامة في العلوم الطبية / الطب عن بعد في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول العيادات المتنقلة في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "5 ساعة/أسبوع",
+    "funding_expectations": "مدعوم بمنحة",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      3
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "العربية",
+      "الإنجليزية"
+    ],
+    "skills": [
+      "العلوم الطبية / الطب عن بعد",
+      "العيادات المتنقلة",
+      "الرعاية الصحية عن بعد"
+    ]
+  },
+  {
+    "name": "د. هدى العلي (مغترب)",
+    "institution": "الجامعة الأردنية",
+    "country": "الأردن",
+    "department": "الهندسة البيئية",
+    "position": "طالب دكتوراه",
+    "expertise": "خبير في الهندسة البيئية يركز على تنقية المياه, تحسين المكبات, إعادة تدوير البلاستيك, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "تنقية المياه",
+      "تحسين المكبات",
+      "إعادة تدوير البلاستيك",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في الهندسة البيئية في الشرق الأوسط",
+      "أطر العمل المستدامة في الهندسة البيئية في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول تنقية المياه في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "R",
+      "MATLAB"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [
+      "حقيبة فحص ميدانية"
+    ],
+    "available_time": "10 ساعة/أسبوع",
+    "funding_expectations": "تمويل جزئي",
+    "preferred_project_size": "Large",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      12
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "العربية",
+      "الإنجليزية"
+    ],
+    "skills": [
+      "الهندسة البيئية",
+      "تنقية المياه",
+      "تحسين المكبات"
+    ]
+  },
+  {
+    "name": "د. نور سليمان",
+    "institution": "جامعة السوربون",
+    "country": "فرنسا",
+    "department": "العلوم الطبية / الطب عن بعد",
+    "position": "أستاذ",
+    "expertise": "خبير في العلوم الطبية / الطب عن بعد يركز على التشخيص الريفي, العيادات المتنقلة, الرعاية الصحية عن بعد, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "التشخيص الريفي",
+      "العيادات المتنقلة",
+      "الرعاية الصحية عن بعد",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في العلوم الطبية / الطب عن بعد في الشرق الأوسط",
+      "أطر العمل المستدامة في العلوم الطبية / الطب عن بعد في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول التشخيص الريفي في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "20 ساعة/أسبوع",
+    "funding_expectations": "مدعوم بمنحة",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      4
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "العربية",
+      "الإنجليزية"
+    ],
+    "skills": [
+      "العلوم الطبية / الطب عن بعد",
+      "التشخيص الريفي",
+      "العيادات المتنقلة"
+    ]
+  },
+  {
+    "name": "د. هدى عساف",
+    "institution": "جامعة السوربون",
+    "country": "فرنسا",
+    "department": "علوم الكمبيوتر / الذكاء الاصطناعي",
+    "position": "باحث رئيسي",
+    "expertise": "خبير في علوم الكمبيوتر / الذكاء الاصطناعي يركز على الرؤية الحاسوبية, نظم المعلومات الجغرافية, قواعد البيانات, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "الرؤية الحاسوبية",
+      "نظم المعلومات الجغرافية",
+      "قواعد البيانات",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في علوم الكمبيوتر / الذكاء الاصطناعي في الشرق الأوسط",
+      "أطر العمل المستدامة في علوم الكمبيوتر / الذكاء الاصطناعي في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول الرؤية الحاسوبية في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "10 ساعة/أسبوع",
+    "funding_expectations": "مدعوم بمنحة",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      15
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "العربية",
+      "الإنجليزية"
+    ],
+    "skills": [
+      "علوم الكمبيوتر / الذكاء الاصطناعي",
+      "الرؤية الحاسوبية",
+      "نظم المعلومات الجغرافية"
+    ]
+  },
+  {
+    "name": "د. نور عساف",
+    "institution": "جامعة دمشق",
+    "country": "سوريا",
+    "department": "الهندسة البيئية",
+    "position": "أستاذ مساعد",
+    "expertise": "خبير في الهندسة البيئية يركز على إعادة تدوير البلاستيك, تحسين المكبات, إدارة النفايات الصلبة, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "إعادة تدوير البلاستيك",
+      "تحسين المكبات",
+      "إدارة النفايات الصلبة",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في الهندسة البيئية في الشرق الأوسط",
+      "أطر العمل المستدامة في الهندسة البيئية في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول إعادة تدوير البلاستيك في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [
+      "حقيبة فحص ميدانية"
+    ],
+    "available_time": "15 ساعة/أسبوع",
+    "funding_expectations": "مدعوم بمنحة",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      12
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "العربية",
+      "الإنجليزية"
+    ],
+    "skills": [
+      "الهندسة البيئية",
+      "إعادة تدوير البلاستيك",
+      "تحسين المكبات"
+    ]
+  },
+  {
+    "name": "د. هدى الحريري",
+    "institution": "جامعة الشارقة",
+    "country": "الإمارات",
+    "department": "علوم الكمبيوتر / الذكاء الاصطناعي",
+    "position": "أستاذ مشارك",
+    "expertise": "خبير في علوم الكمبيوتر / الذكاء الاصطناعي يركز على الرؤية الحاسوبية, نظم المعلومات الجغرافية, الخوادم الطرفية, إعادة إعمار سوريا, التنمية المستدامة.",
+    "keywords": [
+      "الرؤية الحاسوبية",
+      "نظم المعلومات الجغرافية",
+      "الخوادم الطرفية",
+      "إعادة إعمار سوريا",
+      "التنمية المستدامة"
+    ],
+    "publications": [
+      "إعادة بناء الهياكل في علوم الكمبيوتر / الذكاء الاصطناعي في الشرق الأوسط",
+      "أطر العمل المستدامة في علوم الكمبيوتر / الذكاء الاصطناعي في سوريا (2025)"
+    ],
+    "previous_projects": [
+      "مشروع ريادي حول الرؤية الحاسوبية في المجتمعات الريفية"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "5 ساعة/أسبوع",
+    "funding_expectations": "مدعوم بمنحة",
+    "preferred_project_size": "Small",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      11
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "الإنجليزية"
+    ],
+    "skills": [
+      "علوم الكمبيوتر / الذكاء الاصطناعي",
+      "الرؤية الحاسوبية",
+      "نظم المعلومات الجغرافية"
+    ]
+  }
+]

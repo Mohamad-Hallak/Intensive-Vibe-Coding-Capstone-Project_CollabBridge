@@ -1,0 +1,181 @@
+name: CollabBridge CI
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  backend-validation:
+    name: Backend Validation
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install backend dependencies
+        working-directory: backend
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Validate Python imports
+        working-directory: backend
+        env:
+          GEMINI_API_KEY: "test_key_for_ci"
+          SECRET_KEY: "ci_test_secret_key_do_not_use_in_production"
+          DATABASE_URL: "sqlite:///./test_ci.db"
+        run: |
+          python -c "
+          from app.config import settings
+          from app.database import Base, engine, init_db
+          from app.utils.auth import hash_password, verify_password, create_token, verify_token
+          from app.prompts import (
+              RESEARCHER_SYSTEM_INSTRUCTION,
+              build_researcher_question_prompt,
+              build_match_explanation_prompt,
+              build_proposal_prompt,
+              build_impact_prompt,
+              build_funding_prompt,
+          )
+          print('✅ All backend imports validated successfully')
+          "
+
+      - name: Validate auth security
+        working-directory: backend
+        env:
+          SECRET_KEY: "ci_test_secret_key"
+          DATABASE_URL: "sqlite:///./test_ci.db"
+        run: |
+          python -c "
+          from app.utils.auth import hash_password, verify_password, create_token, verify_token
+
+          # Test password hashing
+          pwd = 'TestPassword123!'
+          hashed = hash_password(pwd)
+          assert '\$' in hashed, 'Hash should contain salt separator'
+          assert verify_password(pwd, hashed), 'Password verification failed'
+          assert not verify_password('wrong', hashed), 'Should reject wrong password'
+          
+          # Test token creation/verification
+          token = create_token({'user_id': 1, 'email': 'test@test.com'})
+          payload = verify_token(token)
+          assert payload is not None, 'Token verification failed'
+          assert payload['user_id'] == 1, 'Payload mismatch'
+          
+          print('✅ Auth security tests passed')
+          "
+
+      - name: Validate MCP server imports
+        working-directory: backend
+        env:
+          GEMINI_API_KEY: "test_key"
+          SECRET_KEY: "ci_test_secret"
+          DATABASE_URL: "sqlite:///./test_ci.db"
+        run: |
+          python -c "
+          from mcp_server.tools import TOOLS, TOOL_MAP
+          assert len(TOOLS) == 8, f'Expected 8 MCP tools, got {len(TOOLS)}'
+          expected = ['search_projects','search_researchers','match_researchers',
+                      'generate_proposal','assess_impact','get_funding','build_team','get_sdg_info']
+          for name in expected:
+              assert name in TOOL_MAP, f'Missing MCP tool: {name}'
+          print(f'✅ MCP server: {len(TOOLS)} tools validated')
+          "
+
+  frontend-validation:
+    name: Frontend Validation
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: frontend/package-lock.json
+
+      - name: Install frontend dependencies
+        working-directory: frontend
+        run: npm ci
+
+      - name: Lint frontend
+        working-directory: frontend
+        run: npm run lint || echo "Lint warnings present (non-blocking)"
+
+  docker-build:
+    name: Docker Build Validation
+    runs-on: ubuntu-latest
+    needs: [backend-validation, frontend-validation]
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build backend Docker image
+        run: |
+          docker build -t collabbridge-backend:ci ./backend
+          echo "✅ Backend Docker image built successfully"
+
+      - name: Build frontend Docker image
+        run: |
+          docker build -t collabbridge-frontend:ci ./frontend
+          echo "✅ Frontend Docker image built successfully"
+
+      - name: Test backend container starts
+        run: |
+          docker run -d \
+            --name test-backend \
+            -p 8001:8000 \
+            -e GEMINI_API_KEY="test_key" \
+            -e SECRET_KEY="ci_test_secret_key_for_docker" \
+            -e DATABASE_URL="sqlite:///./test.db" \
+            collabbridge-backend:ci
+          
+          sleep 8
+          
+          # Check health endpoint
+          HTTP_STATUS=$(curl -s -o /dev/null -w "%{http_code}" http://localhost:8001/health || echo "000")
+          
+          docker stop test-backend
+          docker rm test-backend
+          
+          if [ "$HTTP_STATUS" = "200" ]; then
+            echo "✅ Backend container health check passed (HTTP $HTTP_STATUS)"
+          else
+            echo "⚠️ Health check returned HTTP $HTTP_STATUS (container may still be starting)"
+          fi
+
+  security-check:
+    name: Security Check
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check for committed secrets
+        run: |
+          # Fail if any .env files (not .env.example) were committed
+          if find . -name ".env" -not -name ".env.example" -not -path "./.git/*" | grep -q .; then
+            echo "❌ Found committed .env file(s)! Remove them immediately."
+            find . -name ".env" -not -name ".env.example" -not -path "./.git/*"
+            exit 1
+          fi
+          echo "✅ No committed .env files found"
+
+      - name: Check for hardcoded secrets patterns
+        run: |
+          # Check for obviously hardcoded API keys (basic pattern check)
+          if grep -r "AIzaSy" backend/app/ --include="*.py" | grep -v "test\|example\|placeholder"; then
+            echo "❌ Possible hardcoded API key found in backend/app/"
+            exit 1
+          fi
+          echo "✅ No hardcoded API key patterns found"

@@ -1,0 +1,779 @@
+# Antigravity Project Prompt
+
+## Project Title
+
+**CollabBridge AI: A Multi-Agent Platform for Matching Researchers with High-Impact Societal Projects**
+
+---
+
+# Project Vision
+
+Build a production-quality AI multi-agent web application using modern agent engineering principles. The platform is designed for universities, NGOs, government agencies, research centers, and social enterprises.
+
+The objective is to accelerate reconstruction and sustainable development by intelligently matching researchers with impactful projects.
+
+The first deployment target is **Syria**, where the platform helps solve urgent post-war challenges by connecting project owners with researchers from Syria and around the world.
+
+The application should demonstrate advanced AI agent design, multi-agent collaboration, structured reasoning, memory, explainability, and intelligent recommendations.
+
+The entire user experience should be conversational instead of traditional forms.
+
+---
+
+# Core User Types
+
+## 1. Project Owners
+
+Examples
+
+* NGO
+* University
+* Government Ministry
+* Municipality
+* Social Enterprise
+* Startup
+* International Organization
+
+Project owners describe a challenge they want to solve.
+
+Examples:
+
+* Recycling destroyed concrete
+* Waste management
+* Smart agriculture
+* Renewable energy
+* Hospital reconstruction
+* Water management
+* Education technology
+* Earthquake-resistant housing
+* Heritage restoration
+* Digital government
+
+---
+
+## 2. Researchers
+
+Researchers create a profile by chatting with an AI interviewer.
+
+Examples
+
+* Professors
+* PhD Students
+* Master's Students
+* Engineers
+* Independent Researchers
+* Industry Experts
+
+---
+
+# Multi-Agent Architecture
+
+The system must consist of multiple specialized AI agents instead of one chatbot.
+
+---
+
+## Agent 1 — Conversation Manager
+
+Responsibilities
+
+* Welcome users
+* Detect user type
+* Route conversation
+* Maintain context
+* Handle interruptions
+* Maintain long-term memory during the session
+
+---
+
+## Agent 2 — Project Interview Agent
+
+Conducts a natural conversation with project owners.
+
+Instead of asking a static questionnaire, dynamically generate follow-up questions depending on previous answers.
+
+Example topics
+
+* Project title
+* Problem description
+* Current challenges
+* Expected impact
+* SDGs
+* Beneficiaries
+* Budget
+* Timeline
+* Existing resources
+* Required expertise
+* Risks
+* Preferred collaborators
+* Open-source preference
+* International collaboration
+* Geographic scope
+* Technology readiness level (TRL)
+* Sustainability
+* Ethical considerations
+
+At the end, automatically create a structured Project Profile.
+
+---
+
+## Agent 3 — Researcher Interview Agent
+
+Conduct an adaptive interview.
+
+Collect
+
+Academic Information
+
+* Name
+* Institution
+* Country
+* Department
+* Position
+
+Research
+
+* Expertise
+* Keywords
+* Publications
+* Previous projects
+* Programming languages
+* Software skills
+* Laboratory facilities
+
+Collaboration
+
+* Available time
+* Funding expectations
+* Preferred project size
+* Remote collaboration
+* International collaboration
+
+Interests
+
+* SDGs
+* Humanitarian work
+* Climate
+* AI
+* Healthcare
+* Education
+* Agriculture
+
+Automatically generate a structured Researcher Profile.
+
+---
+
+## Agent 4 — Information Extraction Agent
+
+Convert conversations into structured JSON.
+
+Example
+
+```json
+{
+  "project_title":"",
+  "sector":"",
+  "problem":"",
+  "budget":"",
+  "timeline":"",
+  "required_skills":[],
+  "preferred_location":"",
+  "sdgs":[],
+  "collaboration_type":"",
+  "technology_readiness_level":"",
+  "priority":""
+}
+```
+
+Likewise generate structured researcher profiles.
+
+---
+
+## Agent 5 — Matching Agent
+
+This is the heart of the project.
+
+The agent compares every project with every researcher.
+
+Use weighted semantic matching.
+
+Matching dimensions
+
+Technical Expertise (30%)
+
+Domain Experience (15%)
+
+Previous Similar Projects (10%)
+
+Availability (10%)
+
+Budget Compatibility (5%)
+
+Timeline Compatibility (10%)
+
+Language Compatibility (5%)
+
+Geographic Preference (5%)
+
+SDG Alignment (5%)
+
+Collaboration Preference (5%)
+
+The final score should range from
+
+0–100
+
+Return
+
+Top 5 matches
+
+along with a detailed explanation.
+
+Example
+
+Overall Match
+
+96%
+
+Reasons
+
+✓ Computer Vision
+
+✓ Waste Recycling
+
+✓ Syria reconstruction experience
+
+✓ Available immediately
+
+✓ Similar publications
+
+Potential weaknesses
+
+* Limited Arabic language
+
+Confidence
+
+High
+
+---
+
+## Agent 6 — Team Builder Agent
+
+Sometimes one researcher is insufficient.
+
+Automatically recommend multidisciplinary teams.
+
+Example
+
+Concrete Recycling Project
+
+Recommend
+
+Material Scientist
+
+Civil Engineer
+
+Environmental Engineer
+
+Economist
+
+GIS Expert
+
+instead of one person.
+
+---
+
+## Agent 7 — Proposal Generator
+
+Automatically generate
+
+Project Summary
+
+Objectives
+
+Expected Deliverables
+
+Timeline
+
+Estimated Budget
+
+Suggested Team
+
+Expected Risks
+
+Expected Impact
+
+Potential Funding Sources
+
+---
+
+## Agent 8 — Impact Assessment Agent
+
+Estimate
+
+Social impact
+
+Environmental impact
+
+Economic impact
+
+Innovation level
+
+Feasibility
+
+Scalability
+
+Alignment with UN Sustainable Development Goals
+
+Return radar charts and summary.
+
+---
+
+## Agent 9 — Recommendation Agent
+
+Suggest improvements.
+
+Example
+
+"This project could increase success by collaborating with researchers experienced in earthquake engineering."
+
+or
+
+"Consider splitting this project into three phases."
+
+---
+
+# Intelligent Conversation
+
+The AI should never feel like filling out a form.
+
+Instead
+
+User
+
+"I want to build a facility to recycle destroyed buildings."
+
+AI
+
+Great idea.
+
+Can you tell me
+
+* Which city?
+* Estimated daily capacity?
+* Current available machinery?
+* Expected funding?
+* Government support?
+* Private investors?
+* Desired completion time?
+
+Follow-up questions should depend on previous answers.
+
+---
+
+# Matching Algorithm
+
+Implement a hybrid approach.
+
+## Layer 1
+
+Embedding similarity
+
+Sentence embeddings
+
+Project description
+
+Research interests
+
+Publication summaries
+
+Keywords
+
+Cosine similarity
+
+---
+
+## Layer 2
+
+Weighted metadata matching
+
+Skills
+
+Country
+
+Languages
+
+Availability
+
+Budget
+
+Timeline
+
+Institution type
+
+Collaboration style
+
+---
+
+## Layer 3
+
+Rule-based adjustments
+
+Example
+
+If researcher unavailable
+
+subtract points
+
+If timeline impossible
+
+subtract points
+
+If project requires laboratory but researcher has none
+
+subtract points
+
+If previous similar project exists
+
+add points
+
+---
+
+## Layer 4
+
+Explainability
+
+Every recommendation must explain WHY.
+
+Never return only a score.
+
+---
+
+# Database Design
+
+Create two databases.
+
+Researchers
+
+Fields
+
+Researcher ID
+
+Profile
+
+Skills
+
+Expertise
+
+Institution
+
+Country
+
+Availability
+
+Languages
+
+Publications
+
+Interests
+
+Previous Projects
+
+Embedding Vector
+
+Projects
+
+Fields
+
+Project ID
+
+Organization
+
+Description
+
+Required Skills
+
+Budget
+
+Timeline
+
+Impact
+
+Location
+
+Sector
+
+SDGs
+
+Priority
+
+Embedding Vector
+
+---
+
+# Frontend
+
+Modern clean interface.
+
+Pages
+
+Home
+
+Researcher Registration
+
+Project Registration
+
+Chat Interface
+
+Dashboard
+
+Matches
+
+Project Details
+
+Researcher Details
+
+Analytics
+
+Admin Panel
+
+Dark and Light themes.
+
+Responsive.
+
+---
+
+# Technologies
+
+Python
+
+FastAPI
+
+Streamlit or React frontend
+
+SQLite for demo
+
+FAISS or ChromaDB for embeddings
+
+Gemini/OpenAI API
+
+Pydantic
+
+LangGraph or Google ADK for multi-agent orchestration
+
+Docker
+
+---
+
+# Demo Dataset
+
+Generate realistic synthetic data.
+
+No placeholders.
+
+Everything should look real.
+
+---
+
+## Researchers
+
+Create **50 realistic researchers**.
+
+Fields
+
+Name
+
+Institution
+
+Country
+
+Department
+
+Expertise
+
+Research Interests
+
+Skills
+
+Languages
+
+Availability
+
+Publications
+
+Previous Projects
+
+Preferred Collaborations
+
+Focus countries
+
+---
+
+Researchers should come from any country
+
+Include Syrians in the diaspora.
+
+---
+
+## Projects
+
+Generate **30 high-impact reconstruction projects**.
+
+Projects should address Syria's most urgent needs.
+
+Examples include
+
+Infrastructure
+
+* Destroyed concrete recycling plants
+* Rubble classification using AI
+* Smart demolition planning
+
+Environment
+
+* Plastic recycling
+* Medical waste recycling
+* Waste-to-energy
+* Landfill optimization
+
+Energy
+
+* Solar villages
+* Microgrids
+* Wind assessment
+* Battery storage
+
+Water
+
+* Smart irrigation
+* Leak detection
+* Wastewater reuse
+* Water quality monitoring
+
+Healthcare
+
+* Telemedicine
+* Hospital reconstruction
+* AI diagnostics
+* Mobile clinics
+
+Education
+
+* Digital schools
+* Offline AI tutoring
+* Teacher training
+* STEM laboratories
+
+Agriculture
+
+* Drought-resistant crops
+* Precision agriculture
+* Greenhouses
+* Olive production optimization
+
+Transportation
+
+* Smart traffic management
+* Road damage detection
+* Bridge monitoring
+
+Housing
+
+* Low-cost modular housing
+* Earthquake-resistant construction
+* Sustainable building materials
+
+Economy
+
+* SME recovery platform
+* Women's entrepreneurship
+* Youth employment
+* Vocational training
+
+Culture
+
+* Heritage reconstruction
+* Digital archaeology
+* Museum digitization
+
+Government
+
+* Digital identity
+* Open data
+* Smart municipalities
+
+Each project should include
+
+Problem description
+
+Expected beneficiaries
+
+Estimated budget
+
+Timeline
+
+Required expertise
+
+Priority
+
+Location
+
+Expected impact
+
+Relevant SDGs
+
+---
+
+# Evaluation Dashboard
+
+Provide
+
+Top researchers
+
+Top projects
+
+Matching scores
+
+Heatmaps
+
+Institution collaborations
+
+Country collaborations
+
+SDG statistics
+
+Project sectors
+
+Funding distribution
+
+Research expertise distribution
+
+---
+
+# Stretch Goals
+
+* Continuous learning from successful collaborations.
+* Feedback loop to improve future matching.
+* AI-generated emails inviting researchers to collaborate.
+* Multi-language support (English and Arabic).
+* PDF export of collaboration proposals.
+* Calendar integration for meetings.
+* Notifications for newly matched projects.
+* Research trend analysis to identify expertise gaps.
+* Explainable AI dashboard showing how each recommendation was calculated.
+
+---
+
+# Expected Deliverables
+
+1. Fully functional multi-agent application.
+2. Adaptive conversational interviews for both project owners and researchers.
+3. Structured profile generation from conversations.
+4. Explainable hybrid matching engine.
+5. Team recommendation engine.
+6. Proposal generation system.
+7. Impact assessment module.
+8. Analytics dashboard.
+9. Synthetic datasets (50 researchers and 30 Syria-focused projects).
+10. Clean, modular, production-ready code with documentation, tests, and Docker support.
+
+The project should showcase modern AI agent engineering, emphasizing transparency, collaboration, and measurable societal impact. The design should make it easy to extend the platform to other countries facing reconstruction or sustainable development challenges after the initial Syria-focused deployment.

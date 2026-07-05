@@ -1,0 +1,2481 @@
+[
+  {
+    "name": "Dr. Ahmad Al-Masri",
+    "institution": "Damascus University",
+    "country": "Syria",
+    "department": "Civil Engineering",
+    "position": "Associate Professor",
+    "expertise": "Structural engineering and seismic design of low-cost concrete housing.",
+    "keywords": [
+      "Civil Engineering",
+      "Structural Analysis",
+      "Seismic Design",
+      "Rubble recycling"
+    ],
+    "publications": [
+      "Seismic performance of reinforced concrete in post-conflict zones (2024)",
+      "Recycled aggregate concrete for local housing (2022)"
+    ],
+    "previous_projects": [
+      "Structural assessment of heritage buildings in Old Damascus",
+      "Rubble concrete reuse pilot in Homs"
+    ],
+    "programming_languages": [
+      "Python",
+      "MATLAB"
+    ],
+    "software_skills": [
+      "SAP2000",
+      "ETABS",
+      "AutoCAD"
+    ],
+    "laboratory_facilities": [
+      "Concrete stress testing laboratory",
+      "Seismic simulation shaker"
+    ],
+    "available_time": "15 hrs/week",
+    "funding_expectations": "Partial funding",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      9,
+      11
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "skills": [
+      "Civil Engineering",
+      "Civil Engineering",
+      "Structural Analysis"
+    ]
+  },
+  {
+    "name": "Dr. Maya Khoury",
+    "institution": "American University of Beirut",
+    "country": "Lebanon",
+    "department": "Water Resources Engineering",
+    "position": "Professor",
+    "expertise": "Drought management, smart irrigation networks, and wastewater reuse in semi-arid zones.",
+    "keywords": [
+      "Water Management",
+      "Irrigation",
+      "Hydrology",
+      "Wastewater reuse"
+    ],
+    "publications": [
+      "Drip irrigation optimization in Mediterranean climate (2023)",
+      "Aquifer recharge under drought conditions (2021)"
+    ],
+    "previous_projects": [
+      "Beqaa Valley Drip Irrigation Initiative",
+      "Greywater recycling in rural schools"
+    ],
+    "programming_languages": [
+      "Python",
+      "R"
+    ],
+    "software_skills": [
+      "ArcGIS",
+      "EPANET",
+      "MODFLOW"
+    ],
+    "laboratory_facilities": [
+      "Water quality testing laboratory",
+      "Spectrophotometer"
+    ],
+    "available_time": "10 hrs/week",
+    "funding_expectations": "Unfunded",
+    "preferred_project_size": "Large",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      6,
+      13,
+      15
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "skills": [
+      "Water Resources Engineering",
+      "Water Management",
+      "Irrigation"
+    ]
+  },
+  {
+    "name": "Dr. Samer Haddad",
+    "institution": "Technical University of Munich",
+    "country": "Germany",
+    "department": "Electrical & Computer Engineering",
+    "position": "Postdoctoral Researcher",
+    "expertise": "Microgrid control, solar battery storage systems, and remote telemetry.",
+    "keywords": [
+      "Renewable Energy",
+      "Microgrids",
+      "Solar PV",
+      "Battery Storage"
+    ],
+    "publications": [
+      "Decentralized control of PV-Battery microgrids in off-grid villages (2025)"
+    ],
+    "previous_projects": [
+      "Bavarian rural microgrid simulation",
+      "Solar kiosk network in East Africa"
+    ],
+    "programming_languages": [
+      "Python",
+      "C++",
+      "Julia"
+    ],
+    "software_skills": [
+      "MATLAB Simulink",
+      "HOMER Pro",
+      "PSCADA"
+    ],
+    "laboratory_facilities": [
+      "Power Hardware-in-the-Loop simulator"
+    ],
+    "available_time": "20 hrs/week",
+    "funding_expectations": "Grant supported",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      7,
+      13
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "Arabic",
+      "English",
+      "German"
+    ],
+    "skills": [
+      "Electrical & Computer Engineering",
+      "Renewable Energy",
+      "Microgrids"
+    ]
+  },
+  {
+    "name": "Dr. Sarah Dupont",
+    "institution": "University of Cambridge",
+    "country": "United Kingdom",
+    "department": "Land Economy",
+    "position": "Senior Lecturer",
+    "expertise": "Post-conflict economic recovery, urban property rights, and micro-finance policies.",
+    "keywords": [
+      "Economic Development",
+      "Property Rights",
+      "Urban Planning",
+      "SME recovery"
+    ],
+    "publications": [
+      "Land registries and title restoration in post-conflict states (2023)"
+    ],
+    "previous_projects": [
+      "Urban economic assessment in Mosul",
+      "Balkans land registry digitalization advisory"
+    ],
+    "programming_languages": [
+      "R",
+      "Stata"
+    ],
+    "software_skills": [
+      "QGIS",
+      "SPSS"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "8 hrs/week",
+    "funding_expectations": "Unfunded",
+    "preferred_project_size": "Small",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      1,
+      8,
+      11
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "skills": [
+      "Land Economy",
+      "Economic Development",
+      "Property Rights"
+    ]
+  },
+  {
+    "name": "Eng. Tariq Al-Youssef",
+    "institution": "Aleppo University",
+    "country": "Syria",
+    "department": "Mechanical Engineering",
+    "position": "Lecturer & Ph.D. Candidate",
+    "expertise": "Low-cost machinery design, plastic shredders, and local manufacturing technologies.",
+    "keywords": [
+      "Mechanical Design",
+      "Plastic Recycling",
+      "Local Manufacturing"
+    ],
+    "publications": [
+      "Local manufacturing of small-scale recycling shredders (2024)"
+    ],
+    "previous_projects": [
+      "Aleppo workshop restoration",
+      "Medical waste autoclave locally built prototype"
+    ],
+    "programming_languages": [
+      "C",
+      "Python"
+    ],
+    "software_skills": [
+      "SolidWorks",
+      "ANSYS",
+      "AutoCAD"
+    ],
+    "laboratory_facilities": [
+      "Aleppo University engineering workshop"
+    ],
+    "available_time": "15 hrs/week",
+    "funding_expectations": "Partial funding",
+    "preferred_project_size": "Small",
+    "remote_collaboration": false,
+    "international_collaboration": true,
+    "sdgs": [
+      9,
+      12
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "skills": [
+      "Mechanical Engineering",
+      "Mechanical Design",
+      "Plastic Recycling"
+    ]
+  },
+  {
+    "name": "Dr. Hasan Shaheen",
+    "institution": "Damascus University",
+    "country": "Syria",
+    "department": "Computer Science / AI",
+    "position": "Associate Professor",
+    "expertise": "Expert in Computer Science / AI focusing on gis modelling, offline databases, rubble classification using ai, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "GIS modelling",
+      "Offline databases",
+      "Rubble classification using AI",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Computer Science / AI structures in post-war Middle East",
+      "Sustainable Computer Science / AI frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on GIS modelling in rural communities"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [
+      "Field testing kit"
+    ],
+    "available_time": "5 hrs/week",
+    "funding_expectations": "Grant supported",
+    "preferred_project_size": "Small",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      1
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "skills": [
+      "Computer Science / AI",
+      "GIS modelling",
+      "Offline databases"
+    ]
+  },
+  {
+    "name": "Dr. Rania Saleh (Diaspora)",
+    "institution": "TU Berlin",
+    "country": "Germany",
+    "department": "Civil Engineering",
+    "position": "Senior Researcher",
+    "expertise": "Expert in Civil Engineering focusing on concrete recycling, earthquake resistant design, rubble assessment, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Concrete recycling",
+      "Earthquake resistant design",
+      "Rubble assessment",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Civil Engineering structures in post-war Middle East",
+      "Sustainable Civil Engineering frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Concrete recycling in rural communities"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "10 hrs/week",
+    "funding_expectations": "Partial funding",
+    "preferred_project_size": "Small",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      9
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "English"
+    ],
+    "skills": [
+      "Civil Engineering",
+      "Concrete recycling",
+      "Earthquake resistant design"
+    ]
+  },
+  {
+    "name": "Dr. Zain Saleh",
+    "institution": "MIT",
+    "country": "USA",
+    "department": "Archaeology & Heritage",
+    "position": "Professor",
+    "expertise": "Expert in Archaeology & Heritage focusing on 3d scanning, digital archaeology, museum digitization, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "3D scanning",
+      "Digital archaeology",
+      "Museum digitization",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Archaeology & Heritage structures in post-war Middle East",
+      "Sustainable Archaeology & Heritage frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on 3D scanning in rural communities"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [
+      "Field testing kit"
+    ],
+    "available_time": "5 hrs/week",
+    "funding_expectations": "Grant supported",
+    "preferred_project_size": "Small",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      12
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "English"
+    ],
+    "skills": [
+      "Archaeology & Heritage",
+      "3D scanning",
+      "Digital archaeology"
+    ]
+  },
+  {
+    "name": "Dr. Hasan Daghestani (Diaspora)",
+    "institution": "MIT",
+    "country": "USA",
+    "department": "Environmental Engineering",
+    "position": "Professor",
+    "expertise": "Expert in Environmental Engineering focusing on plastic recycling, landfill optimization, solid waste management, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Plastic recycling",
+      "Landfill optimization",
+      "Solid waste management",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Environmental Engineering structures in post-war Middle East",
+      "Sustainable Environmental Engineering frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Plastic recycling in rural communities"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [
+      "Field testing kit"
+    ],
+    "available_time": "10 hrs/week",
+    "funding_expectations": "Unfunded",
+    "preferred_project_size": "Small",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      8
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "English"
+    ],
+    "skills": [
+      "Environmental Engineering",
+      "Plastic recycling",
+      "Landfill optimization"
+    ]
+  },
+  {
+    "name": "Dr. Hasan Rizk",
+    "institution": "Aleppo University",
+    "country": "Syria",
+    "department": "Agriculture / Agronomy",
+    "position": "Senior Researcher",
+    "expertise": "Expert in Agriculture / Agronomy focusing on olive oil yield optimization, drought-resistant crops, precision farming, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Olive oil yield optimization",
+      "Drought-resistant crops",
+      "Precision farming",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Agriculture / Agronomy structures in post-war Middle East",
+      "Sustainable Agriculture / Agronomy frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Olive oil yield optimization in rural communities"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [
+      "Field testing kit"
+    ],
+    "available_time": "20 hrs/week",
+    "funding_expectations": "Partial funding",
+    "preferred_project_size": "Large",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      8
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "skills": [
+      "Agriculture / Agronomy",
+      "Olive oil yield optimization",
+      "Drought-resistant crops"
+    ]
+  },
+  {
+    "name": "Dr. Ghalia Assaf",
+    "institution": "Damascus University",
+    "country": "Syria",
+    "department": "Medical Sciences / Telemedicine",
+    "position": "Professor",
+    "expertise": "Expert in Medical Sciences / Telemedicine focusing on rural diagnostics, mobile clinics, digital health databases, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Rural diagnostics",
+      "Mobile clinics",
+      "Digital health databases",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Medical Sciences / Telemedicine structures in post-war Middle East",
+      "Sustainable Medical Sciences / Telemedicine frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Rural diagnostics in rural communities"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [
+      "Field testing kit"
+    ],
+    "available_time": "5 hrs/week",
+    "funding_expectations": "Unfunded",
+    "preferred_project_size": "Small",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      15
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "skills": [
+      "Medical Sciences / Telemedicine",
+      "Rural diagnostics",
+      "Mobile clinics"
+    ]
+  },
+  {
+    "name": "Dr. Nour Suleiman",
+    "institution": "Sharjah University",
+    "country": "UAE",
+    "department": "Agriculture / Agronomy",
+    "position": "Associate Professor",
+    "expertise": "Expert in Agriculture / Agronomy focusing on smart greenhouses, precision farming, olive oil yield optimization, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Smart greenhouses",
+      "Precision farming",
+      "Olive oil yield optimization",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Agriculture / Agronomy structures in post-war Middle East",
+      "Sustainable Agriculture / Agronomy frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Smart greenhouses in rural communities"
+    ],
+    "programming_languages": [
+      "R",
+      "MATLAB"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [
+      "Field testing kit"
+    ],
+    "available_time": "20 hrs/week",
+    "funding_expectations": "Partial funding",
+    "preferred_project_size": "Small",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      1
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "skills": [
+      "Agriculture / Agronomy",
+      "Smart greenhouses",
+      "Precision farming"
+    ]
+  },
+  {
+    "name": "Dr. Zain Bitar",
+    "institution": "Tishreen University",
+    "country": "Syria",
+    "department": "Archaeology & Heritage",
+    "position": "Senior Researcher",
+    "expertise": "Expert in Archaeology & Heritage focusing on heritage restoration, digital archaeology, 3d scanning, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Heritage restoration",
+      "Digital archaeology",
+      "3D scanning",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Archaeology & Heritage structures in post-war Middle East",
+      "Sustainable Archaeology & Heritage frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Heritage restoration in rural communities"
+    ],
+    "programming_languages": [
+      "R",
+      "MATLAB"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [
+      "Field testing kit"
+    ],
+    "available_time": "20 hrs/week",
+    "funding_expectations": "Grant supported",
+    "preferred_project_size": "Large",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      3
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "skills": [
+      "Archaeology & Heritage",
+      "Heritage restoration",
+      "Digital archaeology"
+    ]
+  },
+  {
+    "name": "Dr. Hasan Kabbani (Diaspora)",
+    "institution": "Sorbonne",
+    "country": "France",
+    "department": "Renewable Energy",
+    "position": "Professor",
+    "expertise": "Expert in Renewable Energy focusing on wind assessment, microgrids, solar pv, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Wind assessment",
+      "Microgrids",
+      "Solar PV",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Renewable Energy structures in post-war Middle East",
+      "Sustainable Renewable Energy frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Wind assessment in rural communities"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "20 hrs/week",
+    "funding_expectations": "Unfunded",
+    "preferred_project_size": "Large",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      4
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "skills": [
+      "Renewable Energy",
+      "Wind assessment",
+      "Microgrids"
+    ]
+  },
+  {
+    "name": "Dr. Rania Bitar (Diaspora)",
+    "institution": "Sorbonne",
+    "country": "France",
+    "department": "Medical Sciences / Telemedicine",
+    "position": "Associate Professor",
+    "expertise": "Expert in Medical Sciences / Telemedicine focusing on rural diagnostics, telehealth, digital health databases, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Rural diagnostics",
+      "Telehealth",
+      "Digital health databases",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Medical Sciences / Telemedicine structures in post-war Middle East",
+      "Sustainable Medical Sciences / Telemedicine frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Rural diagnostics in rural communities"
+    ],
+    "programming_languages": [
+      "R",
+      "MATLAB"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [
+      "Field testing kit"
+    ],
+    "available_time": "15 hrs/week",
+    "funding_expectations": "Partial funding",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      6
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "English"
+    ],
+    "skills": [
+      "Medical Sciences / Telemedicine",
+      "Rural diagnostics",
+      "Telehealth"
+    ]
+  },
+  {
+    "name": "Dr. Adnan Daghestani",
+    "institution": "Aleppo University",
+    "country": "Syria",
+    "department": "Environmental Engineering",
+    "position": "PhD Candidate",
+    "expertise": "Expert in Environmental Engineering focusing on solid waste management, water filtration, landfill optimization, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Solid waste management",
+      "Water filtration",
+      "Landfill optimization",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Environmental Engineering structures in post-war Middle East",
+      "Sustainable Environmental Engineering frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Solid waste management in rural communities"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "10 hrs/week",
+    "funding_expectations": "Grant supported",
+    "preferred_project_size": "Large",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      9
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "skills": [
+      "Environmental Engineering",
+      "Solid waste management",
+      "Water filtration"
+    ]
+  },
+  {
+    "name": "Dr. Lina Kabbani (Diaspora)",
+    "institution": "TU Berlin",
+    "country": "Germany",
+    "department": "Archaeology & Heritage",
+    "position": "Assistant Professor",
+    "expertise": "Expert in Archaeology & Heritage focusing on museum digitization, 3d scanning, digital archaeology, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Museum digitization",
+      "3D scanning",
+      "Digital archaeology",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Archaeology & Heritage structures in post-war Middle East",
+      "Sustainable Archaeology & Heritage frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Museum digitization in rural communities"
+    ],
+    "programming_languages": [
+      "R",
+      "MATLAB"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [
+      "Field testing kit"
+    ],
+    "available_time": "5 hrs/week",
+    "funding_expectations": "Unfunded",
+    "preferred_project_size": "Small",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      13
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "English"
+    ],
+    "skills": [
+      "Archaeology & Heritage",
+      "Museum digitization",
+      "3D scanning"
+    ]
+  },
+  {
+    "name": "Dr. Rania Ghanem",
+    "institution": "Damascus University",
+    "country": "Syria",
+    "department": "Medical Sciences / Telemedicine",
+    "position": "Professor",
+    "expertise": "Expert in Medical Sciences / Telemedicine focusing on telehealth, mobile clinics, digital health databases, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Telehealth",
+      "Mobile clinics",
+      "Digital health databases",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Medical Sciences / Telemedicine structures in post-war Middle East",
+      "Sustainable Medical Sciences / Telemedicine frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Telehealth in rural communities"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "10 hrs/week",
+    "funding_expectations": "Partial funding",
+    "preferred_project_size": "Large",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      13
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "skills": [
+      "Medical Sciences / Telemedicine",
+      "Telehealth",
+      "Mobile clinics"
+    ]
+  },
+  {
+    "name": "Dr. Nour Saleh (Diaspora)",
+    "institution": "Sharjah University",
+    "country": "UAE",
+    "department": "Medical Sciences / Telemedicine",
+    "position": "Professor",
+    "expertise": "Expert in Medical Sciences / Telemedicine focusing on telehealth, rural diagnostics, mobile clinics, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Telehealth",
+      "Rural diagnostics",
+      "Mobile clinics",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Medical Sciences / Telemedicine structures in post-war Middle East",
+      "Sustainable Medical Sciences / Telemedicine frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Telehealth in rural communities"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "15 hrs/week",
+    "funding_expectations": "Partial funding",
+    "preferred_project_size": "Large",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      15
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "English"
+    ],
+    "skills": [
+      "Medical Sciences / Telemedicine",
+      "Telehealth",
+      "Rural diagnostics"
+    ]
+  },
+  {
+    "name": "Dr. Karam Ghanem (Diaspora)",
+    "institution": "MIT",
+    "country": "USA",
+    "department": "Environmental Engineering",
+    "position": "Associate Professor",
+    "expertise": "Expert in Environmental Engineering focusing on plastic recycling, solid waste management, landfill optimization, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Plastic recycling",
+      "Solid waste management",
+      "Landfill optimization",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Environmental Engineering structures in post-war Middle East",
+      "Sustainable Environmental Engineering frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Plastic recycling in rural communities"
+    ],
+    "programming_languages": [
+      "R",
+      "MATLAB"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [
+      "Field testing kit"
+    ],
+    "available_time": "10 hrs/week",
+    "funding_expectations": "Partial funding",
+    "preferred_project_size": "Small",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      11
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "skills": [
+      "Environmental Engineering",
+      "Plastic recycling",
+      "Solid waste management"
+    ]
+  },
+  {
+    "name": "Dr. Ghalia Kabbani",
+    "institution": "Aleppo University",
+    "country": "Syria",
+    "department": "Civil Engineering",
+    "position": "Senior Researcher",
+    "expertise": "Expert in Civil Engineering focusing on structural analysis, rubble assessment, earthquake resistant design, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Structural Analysis",
+      "Rubble assessment",
+      "Earthquake resistant design",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Civil Engineering structures in post-war Middle East",
+      "Sustainable Civil Engineering frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Structural Analysis in rural communities"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "10 hrs/week",
+    "funding_expectations": "Partial funding",
+    "preferred_project_size": "Small",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      4
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "skills": [
+      "Civil Engineering",
+      "Structural Analysis",
+      "Rubble assessment"
+    ]
+  },
+  {
+    "name": "Dr. Karam Al-Ali",
+    "institution": "University of Jordan",
+    "country": "Jordan",
+    "department": "Economics & Policy",
+    "position": "Assistant Professor",
+    "expertise": "Expert in Economics & Policy focusing on supply chain logistics, micro-loans, youth employment, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Supply chain logistics",
+      "Micro-loans",
+      "Youth employment",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Economics & Policy structures in post-war Middle East",
+      "Sustainable Economics & Policy frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Supply chain logistics in rural communities"
+    ],
+    "programming_languages": [
+      "R",
+      "MATLAB"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [
+      "Field testing kit"
+    ],
+    "available_time": "10 hrs/week",
+    "funding_expectations": "Unfunded",
+    "preferred_project_size": "Large",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      1
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "skills": [
+      "Economics & Policy",
+      "Supply chain logistics",
+      "Micro-loans"
+    ]
+  },
+  {
+    "name": "Dr. Firas Al-Ali (Diaspora)",
+    "institution": "Sharjah University",
+    "country": "UAE",
+    "department": "Agriculture / Agronomy",
+    "position": "Professor",
+    "expertise": "Expert in Agriculture / Agronomy focusing on drought-resistant crops, precision farming, smart greenhouses, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Drought-resistant crops",
+      "Precision farming",
+      "Smart greenhouses",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Agriculture / Agronomy structures in post-war Middle East",
+      "Sustainable Agriculture / Agronomy frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Drought-resistant crops in rural communities"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [
+      "Field testing kit"
+    ],
+    "available_time": "5 hrs/week",
+    "funding_expectations": "Grant supported",
+    "preferred_project_size": "Large",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      6
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "skills": [
+      "Agriculture / Agronomy",
+      "Drought-resistant crops",
+      "Precision farming"
+    ]
+  },
+  {
+    "name": "Dr. Firas Daghestani",
+    "institution": "Aleppo University",
+    "country": "Syria",
+    "department": "Archaeology & Heritage",
+    "position": "Senior Researcher",
+    "expertise": "Expert in Archaeology & Heritage focusing on 3d scanning, digital archaeology, heritage restoration, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "3D scanning",
+      "Digital archaeology",
+      "Heritage restoration",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Archaeology & Heritage structures in post-war Middle East",
+      "Sustainable Archaeology & Heritage frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on 3D scanning in rural communities"
+    ],
+    "programming_languages": [
+      "R",
+      "MATLAB"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [
+      "Field testing kit"
+    ],
+    "available_time": "15 hrs/week",
+    "funding_expectations": "Unfunded",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      8
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "skills": [
+      "Archaeology & Heritage",
+      "3D scanning",
+      "Digital archaeology"
+    ]
+  },
+  {
+    "name": "Dr. Adnan Assaf",
+    "institution": "Aleppo University",
+    "country": "Syria",
+    "department": "Civil Engineering",
+    "position": "PhD Candidate",
+    "expertise": "Expert in Civil Engineering focusing on structural analysis, rubble assessment, earthquake resistant design, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Structural Analysis",
+      "Rubble assessment",
+      "Earthquake resistant design",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Civil Engineering structures in post-war Middle East",
+      "Sustainable Civil Engineering frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Structural Analysis in rural communities"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [
+      "Field testing kit"
+    ],
+    "available_time": "15 hrs/week",
+    "funding_expectations": "Unfunded",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      7
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "skills": [
+      "Civil Engineering",
+      "Structural Analysis",
+      "Rubble assessment"
+    ]
+  },
+  {
+    "name": "Dr. Zain Jradi (Diaspora)",
+    "institution": "KTH",
+    "country": "Sweden",
+    "department": "Civil Engineering",
+    "position": "Senior Researcher",
+    "expertise": "Expert in Civil Engineering focusing on earthquake resistant design, rubble assessment, structural analysis, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Earthquake resistant design",
+      "Rubble assessment",
+      "Structural Analysis",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Civil Engineering structures in post-war Middle East",
+      "Sustainable Civil Engineering frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Earthquake resistant design in rural communities"
+    ],
+    "programming_languages": [
+      "R",
+      "MATLAB"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [
+      "Field testing kit"
+    ],
+    "available_time": "10 hrs/week",
+    "funding_expectations": "Partial funding",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      7
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "skills": [
+      "Civil Engineering",
+      "Earthquake resistant design",
+      "Rubble assessment"
+    ]
+  },
+  {
+    "name": "Dr. Salma Hariri (Diaspora)",
+    "institution": "TU Berlin",
+    "country": "Germany",
+    "department": "Computer Science / AI",
+    "position": "Senior Researcher",
+    "expertise": "Expert in Computer Science / AI focusing on edge servers, rubble classification using ai, computer vision, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Edge servers",
+      "Rubble classification using AI",
+      "Computer Vision",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Computer Science / AI structures in post-war Middle East",
+      "Sustainable Computer Science / AI frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Edge servers in rural communities"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "5 hrs/week",
+    "funding_expectations": "Grant supported",
+    "preferred_project_size": "Small",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      15
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "skills": [
+      "Computer Science / AI",
+      "Edge servers",
+      "Rubble classification using AI"
+    ]
+  },
+  {
+    "name": "Dr. Zain Ghanem (Diaspora)",
+    "institution": "Sharjah University",
+    "country": "UAE",
+    "department": "Archaeology & Heritage",
+    "position": "Senior Researcher",
+    "expertise": "Expert in Archaeology & Heritage focusing on heritage restoration, museum digitization, 3d scanning, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Heritage restoration",
+      "Museum digitization",
+      "3D scanning",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Archaeology & Heritage structures in post-war Middle East",
+      "Sustainable Archaeology & Heritage frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Heritage restoration in rural communities"
+    ],
+    "programming_languages": [
+      "R",
+      "MATLAB"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [
+      "Field testing kit"
+    ],
+    "available_time": "10 hrs/week",
+    "funding_expectations": "Grant supported",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      4
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "English"
+    ],
+    "skills": [
+      "Archaeology & Heritage",
+      "Heritage restoration",
+      "Museum digitization"
+    ]
+  },
+  {
+    "name": "Dr. Huda Assaf",
+    "institution": "Damascus University",
+    "country": "Syria",
+    "department": "Renewable Energy",
+    "position": "Associate Professor",
+    "expertise": "Expert in Renewable Energy focusing on microgrids, wind assessment, solar pv, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Microgrids",
+      "Wind assessment",
+      "Solar PV",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Renewable Energy structures in post-war Middle East",
+      "Sustainable Renewable Energy frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Microgrids in rural communities"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [
+      "Field testing kit"
+    ],
+    "available_time": "15 hrs/week",
+    "funding_expectations": "Grant supported",
+    "preferred_project_size": "Small",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      6
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "skills": [
+      "Renewable Energy",
+      "Microgrids",
+      "Wind assessment"
+    ]
+  },
+  {
+    "name": "Dr. Ghalia Fares",
+    "institution": "Tishreen University",
+    "country": "Syria",
+    "department": "Archaeology & Heritage",
+    "position": "Professor",
+    "expertise": "Expert in Archaeology & Heritage focusing on digital archaeology, 3d scanning, museum digitization, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Digital archaeology",
+      "3D scanning",
+      "Museum digitization",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Archaeology & Heritage structures in post-war Middle East",
+      "Sustainable Archaeology & Heritage frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Digital archaeology in rural communities"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "20 hrs/week",
+    "funding_expectations": "Grant supported",
+    "preferred_project_size": "Large",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      3
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "skills": [
+      "Archaeology & Heritage",
+      "Digital archaeology",
+      "3D scanning"
+    ]
+  },
+  {
+    "name": "Dr. Karam Al-Ali",
+    "institution": "Sharjah University",
+    "country": "UAE",
+    "department": "Economics & Policy",
+    "position": "Assistant Professor",
+    "expertise": "Expert in Economics & Policy focusing on micro-loans, sme recovery, supply chain logistics, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Micro-loans",
+      "SME recovery",
+      "Supply chain logistics",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Economics & Policy structures in post-war Middle East",
+      "Sustainable Economics & Policy frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Micro-loans in rural communities"
+    ],
+    "programming_languages": [
+      "R",
+      "MATLAB"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [
+      "Field testing kit"
+    ],
+    "available_time": "5 hrs/week",
+    "funding_expectations": "Grant supported",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      8
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "skills": [
+      "Economics & Policy",
+      "Micro-loans",
+      "SME recovery"
+    ]
+  },
+  {
+    "name": "Dr. Karam Bitar",
+    "institution": "KTH",
+    "country": "Sweden",
+    "department": "Civil Engineering",
+    "position": "Professor",
+    "expertise": "Expert in Civil Engineering focusing on earthquake resistant design, structural analysis, concrete recycling, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Earthquake resistant design",
+      "Structural Analysis",
+      "Concrete recycling",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Civil Engineering structures in post-war Middle East",
+      "Sustainable Civil Engineering frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Earthquake resistant design in rural communities"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [
+      "Field testing kit"
+    ],
+    "available_time": "5 hrs/week",
+    "funding_expectations": "Unfunded",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      13
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "skills": [
+      "Civil Engineering",
+      "Earthquake resistant design",
+      "Structural Analysis"
+    ]
+  },
+  {
+    "name": "Dr. Rania Suleiman",
+    "institution": "TU Berlin",
+    "country": "Germany",
+    "department": "Archaeology & Heritage",
+    "position": "Professor",
+    "expertise": "Expert in Archaeology & Heritage focusing on digital archaeology, museum digitization, 3d scanning, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Digital archaeology",
+      "Museum digitization",
+      "3D scanning",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Archaeology & Heritage structures in post-war Middle East",
+      "Sustainable Archaeology & Heritage frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Digital archaeology in rural communities"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [
+      "Field testing kit"
+    ],
+    "available_time": "5 hrs/week",
+    "funding_expectations": "Grant supported",
+    "preferred_project_size": "Small",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      7
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "skills": [
+      "Archaeology & Heritage",
+      "Digital archaeology",
+      "Museum digitization"
+    ]
+  },
+  {
+    "name": "Dr. Hasan Suleiman",
+    "institution": "MIT",
+    "country": "USA",
+    "department": "Computer Science / AI",
+    "position": "Senior Researcher",
+    "expertise": "Expert in Computer Science / AI focusing on gis modelling, offline databases, edge servers, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "GIS modelling",
+      "Offline databases",
+      "Edge servers",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Computer Science / AI structures in post-war Middle East",
+      "Sustainable Computer Science / AI frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on GIS modelling in rural communities"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [
+      "Field testing kit"
+    ],
+    "available_time": "20 hrs/week",
+    "funding_expectations": "Grant supported",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      12
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "skills": [
+      "Computer Science / AI",
+      "GIS modelling",
+      "Offline databases"
+    ]
+  },
+  {
+    "name": "Dr. Bassam Rizk",
+    "institution": "TU Berlin",
+    "country": "Germany",
+    "department": "Renewable Energy",
+    "position": "PhD Candidate",
+    "expertise": "Expert in Renewable Energy focusing on battery storage, microgrids, solar pv, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Battery storage",
+      "Microgrids",
+      "Solar PV",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Renewable Energy structures in post-war Middle East",
+      "Sustainable Renewable Energy frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Battery storage in rural communities"
+    ],
+    "programming_languages": [
+      "R",
+      "MATLAB"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [
+      "Field testing kit"
+    ],
+    "available_time": "20 hrs/week",
+    "funding_expectations": "Grant supported",
+    "preferred_project_size": "Large",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      13
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "English"
+    ],
+    "skills": [
+      "Renewable Energy",
+      "Battery storage",
+      "Microgrids"
+    ]
+  },
+  {
+    "name": "Dr. Ghalia Assaf (Diaspora)",
+    "institution": "TU Berlin",
+    "country": "Germany",
+    "department": "Medical Sciences / Telemedicine",
+    "position": "Associate Professor",
+    "expertise": "Expert in Medical Sciences / Telemedicine focusing on mobile clinics, telehealth, rural diagnostics, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Mobile clinics",
+      "Telehealth",
+      "Rural diagnostics",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Medical Sciences / Telemedicine structures in post-war Middle East",
+      "Sustainable Medical Sciences / Telemedicine frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Mobile clinics in rural communities"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "10 hrs/week",
+    "funding_expectations": "Partial funding",
+    "preferred_project_size": "Large",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      13
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "English"
+    ],
+    "skills": [
+      "Medical Sciences / Telemedicine",
+      "Mobile clinics",
+      "Telehealth"
+    ]
+  },
+  {
+    "name": "Dr. Salma Suleiman",
+    "institution": "Sharjah University",
+    "country": "UAE",
+    "department": "Agriculture / Agronomy",
+    "position": "Professor",
+    "expertise": "Expert in Agriculture / Agronomy focusing on drought-resistant crops, olive oil yield optimization, precision farming, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Drought-resistant crops",
+      "Olive oil yield optimization",
+      "Precision farming",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Agriculture / Agronomy structures in post-war Middle East",
+      "Sustainable Agriculture / Agronomy frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Drought-resistant crops in rural communities"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "10 hrs/week",
+    "funding_expectations": "Grant supported",
+    "preferred_project_size": "Small",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      11
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "English"
+    ],
+    "skills": [
+      "Agriculture / Agronomy",
+      "Drought-resistant crops",
+      "Olive oil yield optimization"
+    ]
+  },
+  {
+    "name": "Dr. Nour Bitar (Diaspora)",
+    "institution": "KTH",
+    "country": "Sweden",
+    "department": "Renewable Energy",
+    "position": "PhD Candidate",
+    "expertise": "Expert in Renewable Energy focusing on battery storage, wind assessment, microgrids, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Battery storage",
+      "Wind assessment",
+      "Microgrids",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Renewable Energy structures in post-war Middle East",
+      "Sustainable Renewable Energy frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Battery storage in rural communities"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [
+      "Field testing kit"
+    ],
+    "available_time": "10 hrs/week",
+    "funding_expectations": "Grant supported",
+    "preferred_project_size": "Large",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      7
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "skills": [
+      "Renewable Energy",
+      "Battery storage",
+      "Wind assessment"
+    ]
+  },
+  {
+    "name": "Dr. Riad Jradi",
+    "institution": "TU Berlin",
+    "country": "Germany",
+    "department": "Environmental Engineering",
+    "position": "Assistant Professor",
+    "expertise": "Expert in Environmental Engineering focusing on plastic recycling, landfill optimization, water filtration, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Plastic recycling",
+      "Landfill optimization",
+      "Water filtration",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Environmental Engineering structures in post-war Middle East",
+      "Sustainable Environmental Engineering frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Plastic recycling in rural communities"
+    ],
+    "programming_languages": [
+      "R",
+      "MATLAB"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "15 hrs/week",
+    "funding_expectations": "Grant supported",
+    "preferred_project_size": "Small",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      6
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "English"
+    ],
+    "skills": [
+      "Environmental Engineering",
+      "Plastic recycling",
+      "Landfill optimization"
+    ]
+  },
+  {
+    "name": "Dr. Karam Hariri",
+    "institution": "KTH",
+    "country": "Sweden",
+    "department": "Civil Engineering",
+    "position": "Associate Professor",
+    "expertise": "Expert in Civil Engineering focusing on rubble assessment, concrete recycling, structural analysis, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Rubble assessment",
+      "Concrete recycling",
+      "Structural Analysis",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Civil Engineering structures in post-war Middle East",
+      "Sustainable Civil Engineering frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Rubble assessment in rural communities"
+    ],
+    "programming_languages": [
+      "R",
+      "MATLAB"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [
+      "Field testing kit"
+    ],
+    "available_time": "20 hrs/week",
+    "funding_expectations": "Partial funding",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      12
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "skills": [
+      "Civil Engineering",
+      "Rubble assessment",
+      "Concrete recycling"
+    ]
+  },
+  {
+    "name": "Dr. Riad Assaf",
+    "institution": "TU Berlin",
+    "country": "Germany",
+    "department": "Computer Science / AI",
+    "position": "PhD Candidate",
+    "expertise": "Expert in Computer Science / AI focusing on edge servers, computer vision, gis modelling, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Edge servers",
+      "Computer Vision",
+      "GIS modelling",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Computer Science / AI structures in post-war Middle East",
+      "Sustainable Computer Science / AI frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Edge servers in rural communities"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "15 hrs/week",
+    "funding_expectations": "Grant supported",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      4
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "skills": [
+      "Computer Science / AI",
+      "Edge servers",
+      "Computer Vision"
+    ]
+  },
+  {
+    "name": "Dr. Riad Al-Ali (Diaspora)",
+    "institution": "University of Jordan",
+    "country": "Jordan",
+    "department": "Civil Engineering",
+    "position": "Professor",
+    "expertise": "Expert in Civil Engineering focusing on rubble assessment, structural analysis, concrete recycling, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Rubble assessment",
+      "Structural Analysis",
+      "Concrete recycling",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Civil Engineering structures in post-war Middle East",
+      "Sustainable Civil Engineering frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Rubble assessment in rural communities"
+    ],
+    "programming_languages": [
+      "R",
+      "MATLAB"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "10 hrs/week",
+    "funding_expectations": "Unfunded",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      9
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "English"
+    ],
+    "skills": [
+      "Civil Engineering",
+      "Rubble assessment",
+      "Structural Analysis"
+    ]
+  },
+  {
+    "name": "Dr. Ghalia Suleiman (Diaspora)",
+    "institution": "Sorbonne",
+    "country": "France",
+    "department": "Economics & Policy",
+    "position": "Professor",
+    "expertise": "Expert in Economics & Policy focusing on sme recovery, youth employment, supply chain logistics, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "SME recovery",
+      "Youth employment",
+      "Supply chain logistics",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Economics & Policy structures in post-war Middle East",
+      "Sustainable Economics & Policy frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on SME recovery in rural communities"
+    ],
+    "programming_languages": [
+      "R",
+      "MATLAB"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "5 hrs/week",
+    "funding_expectations": "Grant supported",
+    "preferred_project_size": "Small",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      13
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "English"
+    ],
+    "skills": [
+      "Economics & Policy",
+      "SME recovery",
+      "Youth employment"
+    ]
+  },
+  {
+    "name": "Dr. Zain Jradi",
+    "institution": "Aleppo University",
+    "country": "Syria",
+    "department": "Medical Sciences / Telemedicine",
+    "position": "PhD Candidate",
+    "expertise": "Expert in Medical Sciences / Telemedicine focusing on rural diagnostics, mobile clinics, telehealth, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Rural diagnostics",
+      "Mobile clinics",
+      "Telehealth",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Medical Sciences / Telemedicine structures in post-war Middle East",
+      "Sustainable Medical Sciences / Telemedicine frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Rural diagnostics in rural communities"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "5 hrs/week",
+    "funding_expectations": "Unfunded",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      13
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "skills": [
+      "Medical Sciences / Telemedicine",
+      "Rural diagnostics",
+      "Mobile clinics"
+    ]
+  },
+  {
+    "name": "Dr. Hasan Suleiman (Diaspora)",
+    "institution": "University of Jordan",
+    "country": "Jordan",
+    "department": "Medical Sciences / Telemedicine",
+    "position": "Professor",
+    "expertise": "Expert in Medical Sciences / Telemedicine focusing on mobile clinics, telehealth, digital health databases, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Mobile clinics",
+      "Telehealth",
+      "Digital health databases",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Medical Sciences / Telemedicine structures in post-war Middle East",
+      "Sustainable Medical Sciences / Telemedicine frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Mobile clinics in rural communities"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "5 hrs/week",
+    "funding_expectations": "Grant supported",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      3
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "skills": [
+      "Medical Sciences / Telemedicine",
+      "Mobile clinics",
+      "Telehealth"
+    ]
+  },
+  {
+    "name": "Dr. Huda Al-Ali (Diaspora)",
+    "institution": "University of Jordan",
+    "country": "Jordan",
+    "department": "Environmental Engineering",
+    "position": "PhD Candidate",
+    "expertise": "Expert in Environmental Engineering focusing on water filtration, landfill optimization, plastic recycling, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Water filtration",
+      "Landfill optimization",
+      "Plastic recycling",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Environmental Engineering structures in post-war Middle East",
+      "Sustainable Environmental Engineering frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Water filtration in rural communities"
+    ],
+    "programming_languages": [
+      "R",
+      "MATLAB"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [
+      "Field testing kit"
+    ],
+    "available_time": "10 hrs/week",
+    "funding_expectations": "Partial funding",
+    "preferred_project_size": "Large",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      12
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "skills": [
+      "Environmental Engineering",
+      "Water filtration",
+      "Landfill optimization"
+    ]
+  },
+  {
+    "name": "Dr. Nour Suleiman",
+    "institution": "Sorbonne",
+    "country": "France",
+    "department": "Medical Sciences / Telemedicine",
+    "position": "Professor",
+    "expertise": "Expert in Medical Sciences / Telemedicine focusing on rural diagnostics, mobile clinics, telehealth, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Rural diagnostics",
+      "Mobile clinics",
+      "Telehealth",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Medical Sciences / Telemedicine structures in post-war Middle East",
+      "Sustainable Medical Sciences / Telemedicine frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Rural diagnostics in rural communities"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "20 hrs/week",
+    "funding_expectations": "Grant supported",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      4
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "skills": [
+      "Medical Sciences / Telemedicine",
+      "Rural diagnostics",
+      "Mobile clinics"
+    ]
+  },
+  {
+    "name": "Dr. Huda Assaf",
+    "institution": "Sorbonne",
+    "country": "France",
+    "department": "Computer Science / AI",
+    "position": "Senior Researcher",
+    "expertise": "Expert in Computer Science / AI focusing on computer vision, gis modelling, offline databases, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Computer Vision",
+      "GIS modelling",
+      "Offline databases",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Computer Science / AI structures in post-war Middle East",
+      "Sustainable Computer Science / AI frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Computer Vision in rural communities"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "10 hrs/week",
+    "funding_expectations": "Grant supported",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      15
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "skills": [
+      "Computer Science / AI",
+      "Computer Vision",
+      "GIS modelling"
+    ]
+  },
+  {
+    "name": "Dr. Nour Assaf",
+    "institution": "Damascus University",
+    "country": "Syria",
+    "department": "Environmental Engineering",
+    "position": "Assistant Professor",
+    "expertise": "Expert in Environmental Engineering focusing on plastic recycling, landfill optimization, solid waste management, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Plastic recycling",
+      "Landfill optimization",
+      "Solid waste management",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Environmental Engineering structures in post-war Middle East",
+      "Sustainable Environmental Engineering frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Plastic recycling in rural communities"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "MATLAB",
+      "ArcGIS"
+    ],
+    "laboratory_facilities": [
+      "Field testing kit"
+    ],
+    "available_time": "15 hrs/week",
+    "funding_expectations": "Grant supported",
+    "preferred_project_size": "Medium",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      12
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "skills": [
+      "Environmental Engineering",
+      "Plastic recycling",
+      "Landfill optimization"
+    ]
+  },
+  {
+    "name": "Dr. Huda Hariri",
+    "institution": "Sharjah University",
+    "country": "UAE",
+    "department": "Computer Science / AI",
+    "position": "Associate Professor",
+    "expertise": "Expert in Computer Science / AI focusing on computer vision, gis modelling, edge servers, syrian reconstruction, sdg alignment.",
+    "keywords": [
+      "Computer Vision",
+      "GIS modelling",
+      "Edge servers",
+      "Syrian reconstruction",
+      "SDG Alignment"
+    ],
+    "publications": [
+      "Rebuilding Computer Science / AI structures in post-war Middle East",
+      "Sustainable Computer Science / AI frameworks for Syria (2025)"
+    ],
+    "previous_projects": [
+      "Pilot on Computer Vision in rural communities"
+    ],
+    "programming_languages": [
+      "Python"
+    ],
+    "software_skills": [
+      "QGIS",
+      "Excel"
+    ],
+    "laboratory_facilities": [],
+    "available_time": "5 hrs/week",
+    "funding_expectations": "Grant supported",
+    "preferred_project_size": "Small",
+    "remote_collaboration": true,
+    "international_collaboration": true,
+    "sdgs": [
+      11
+    ],
+    "humanitarian_work_interest": true,
+    "languages": [
+      "English"
+    ],
+    "skills": [
+      "Computer Science / AI",
+      "Computer Vision",
+      "GIS modelling"
+    ]
+  }
+]

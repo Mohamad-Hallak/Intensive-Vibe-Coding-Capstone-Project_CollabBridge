@@ -1,0 +1,6 @@
+total_projects: 60
+demo_projects: 60
+total_researchers: 100
+demo_researchers: 100
+has_demo: True
+Status check success

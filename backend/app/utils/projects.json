@@ -1,0 +1,822 @@
+[
+  {
+    "organization": "Syrian Reconstruction Trust Fund (SRTF)",
+    "project_title": "Aleppo Concrete Rubble Recycling and Aggregate Reclamation",
+    "sector": "Infrastructure",
+    "problem": "Large quantities of construction rubble from damaged residential areas block transport and redevelopment. The goal is to set up low-cost crushers to turn rubble into building aggregate.",
+    "required_skills": [
+      "Civil Engineering",
+      "Material Science",
+      "Concrete Recycling",
+      "Structural Safety"
+    ],
+    "budget": "$180,000",
+    "timeline": "12 months",
+    "preferred_location": "Aleppo, Syria",
+    "sdgs": [
+      9,
+      11,
+      12
+    ],
+    "collaboration_type": "Hybrid",
+    "technology_readiness_level": "TRL 6",
+    "priority": "High",
+    "expected_impact": {
+      "social": "Allows safe rebuild of 400+ homes and clears public roads.",
+      "environmental": "Prevents river dumping of rubble; reuses 85% of structural waste.",
+      "economic": "Creates 40 local jobs and cuts building material costs by 40%."
+    }
+  },
+  {
+    "organization": "Syrian Environment Society",
+    "project_title": "Daraa Solar-Powered Drip Irrigation and Well Management",
+    "sector": "Water",
+    "problem": "Daraa agriculture suffers from extreme water shortages. Traditional fuel pumps are expensive due to fuel scarcity. Need to design localized smart solar drip irrigation systems.",
+    "required_skills": [
+      "Hydrology",
+      "Solar PV Design",
+      "Agronomy",
+      "IoT Sensors"
+    ],
+    "budget": "$75,000",
+    "timeline": "6 months",
+    "preferred_location": "Daraa, Syria",
+    "sdgs": [
+      6,
+      7,
+      13
+    ],
+    "collaboration_type": "Remote & Field coordinates",
+    "technology_readiness_level": "TRL 5",
+    "priority": "High",
+    "expected_impact": {
+      "social": "Restores food supply for 10,000+ local families.",
+      "environmental": "Reduces groundwater overdraft by 35% using moisture sensors.",
+      "economic": "Reduces farm fuel costs to zero, increasing monthly farm profit."
+    }
+  },
+  {
+    "organization": "Damascus Municipality",
+    "project_title": "Historical Monument 3D Digitization & Digital Archaeology",
+    "sector": "Culture",
+    "problem": "Ancient sites are at risk of destruction. The project aims to capture high-resolution laser scans and 3D digital twins of historical monuments in Damascus and Aleppo.",
+    "required_skills": [
+      "Digital Archaeology",
+      "3D Scanning",
+      "GIS",
+      "Heritage Conservation"
+    ],
+    "budget": "$50,000",
+    "timeline": "8 months",
+    "preferred_location": "Damascus and Aleppo",
+    "sdgs": [
+      11,
+      4
+    ],
+    "collaboration_type": "Hybrid",
+    "technology_readiness_level": "TRL 7",
+    "priority": "Medium",
+    "expected_impact": {
+      "social": "Preserves national identity and makes historic ruins accessible globally.",
+      "environmental": "Zero environmental footprint.",
+      "economic": "Sets up virtual museum apps, preparing for future tourism recovery."
+    }
+  },
+  {
+    "organization": "Red Crescent Syria",
+    "project_title": "Homs Energy Restoration: Solar microgrid design",
+    "sector": "Energy",
+    "problem": "The target region of Homs requires immediate assistance in energy due to localized post-war damage. Solar microgrid design for rural Ghouta clinics. This project aims to design and implement a solution.",
+    "required_skills": [
+      "Solar PV",
+      "Battery Storage",
+      "Electrical Engineering",
+      "Syrian reconstruction context",
+      "Logistics"
+    ],
+    "budget": "$60,000",
+    "timeline": "9 months",
+    "preferred_location": "Homs, Syria",
+    "sdgs": [
+      3
+    ],
+    "collaboration_type": "On-site",
+    "technology_readiness_level": "TRL 7",
+    "priority": "High",
+    "expected_impact": {
+      "social": "Provides critical resource access and stability to 5,000+ local residents in Homs.",
+      "environmental": "Reduces localized emissions and resources consumption through sustainable local components.",
+      "economic": "Generates 10 local engineering/construction jobs."
+    }
+  },
+  {
+    "organization": "Local Municipal Council",
+    "project_title": "Deir ez-Zor Government Restoration: Digital identity system",
+    "sector": "Government",
+    "problem": "The target region of Deir ez-Zor requires immediate assistance in government due to localized post-war damage. Digital identity system for municipal registry recovery. This project aims to design and implement a solution.",
+    "required_skills": [
+      "Cryptography",
+      "Database management",
+      "Public administration",
+      "Syrian reconstruction context",
+      "Logistics"
+    ],
+    "budget": "$30,000",
+    "timeline": "6 months",
+    "preferred_location": "Deir ez-Zor, Syria",
+    "sdgs": [
+      6
+    ],
+    "collaboration_type": "On-site",
+    "technology_readiness_level": "TRL 7",
+    "priority": "High",
+    "expected_impact": {
+      "social": "Provides critical resource access and stability to 5,000+ local residents in Deir ez-Zor.",
+      "environmental": "Reduces localized emissions and resources consumption through sustainable local components.",
+      "economic": "Generates 10 local engineering/construction jobs."
+    }
+  },
+  {
+    "organization": "NGO Hope Foundation",
+    "project_title": "Idlib Economy Restoration: SME micro-loan and logistics tracking plat",
+    "sector": "Economy",
+    "problem": "The target region of Idlib requires immediate assistance in economy due to localized post-war damage. SME micro-loan and logistics tracking platform. This project aims to design and implement a solution.",
+    "required_skills": [
+      "Economics",
+      "Logistics",
+      "Mobile wallets",
+      "Supply chain",
+      "Syrian reconstruction context",
+      "Logistics"
+    ],
+    "budget": "$150,000",
+    "timeline": "9 months",
+    "preferred_location": "Idlib, Syria",
+    "sdgs": [
+      13
+    ],
+    "collaboration_type": "Hybrid",
+    "technology_readiness_level": "TRL 3",
+    "priority": "Medium",
+    "expected_impact": {
+      "social": "Provides critical resource access and stability to 5,000+ local residents in Idlib.",
+      "environmental": "Reduces localized emissions and resources consumption through sustainable local components.",
+      "economic": "Generates 10 local engineering/construction jobs."
+    }
+  },
+  {
+    "organization": "Red Crescent Syria",
+    "project_title": "Hama Housing Restoration: Low-cost earthquake-resistant modular homes",
+    "sector": "Housing",
+    "problem": "The target region of Hama requires immediate assistance in housing due to localized post-war damage. Low-cost earthquake-resistant modular homes. This project aims to design and implement a solution.",
+    "required_skills": [
+      "Modular construction",
+      "Earthquake engineering",
+      "Seismic analysis",
+      "Syrian reconstruction context",
+      "Logistics"
+    ],
+    "budget": "$60,000",
+    "timeline": "9 months",
+    "preferred_location": "Hama, Syria",
+    "sdgs": [
+      3
+    ],
+    "collaboration_type": "Remote",
+    "technology_readiness_level": "TRL 6",
+    "priority": "Medium",
+    "expected_impact": {
+      "social": "Provides critical resource access and stability to 5,000+ local residents in Hama.",
+      "environmental": "Reduces localized emissions and resources consumption through sustainable local components.",
+      "economic": "Generates 10 local engineering/construction jobs."
+    }
+  },
+  {
+    "organization": "NGO Hope Foundation",
+    "project_title": "Hama Transportation Restoration: Bridge structural integrity monitoring network",
+    "sector": "Transportation",
+    "problem": "The target region of Hama requires immediate assistance in transportation due to localized post-war damage. Bridge structural integrity monitoring network. This project aims to design and implement a solution.",
+    "required_skills": [
+      "Structural monitoring",
+      "Sensors",
+      "Civil Engineering",
+      "Syrian reconstruction context",
+      "Logistics"
+    ],
+    "budget": "$100,000",
+    "timeline": "6 months",
+    "preferred_location": "Hama, Syria",
+    "sdgs": [
+      11
+    ],
+    "collaboration_type": "On-site",
+    "technology_readiness_level": "TRL 3",
+    "priority": "Low",
+    "expected_impact": {
+      "social": "Provides critical resource access and stability to 5,000+ local residents in Hama.",
+      "environmental": "Reduces localized emissions and resources consumption through sustainable local components.",
+      "economic": "Generates 20 local engineering/construction jobs."
+    }
+  },
+  {
+    "organization": "Red Crescent Syria",
+    "project_title": "Tartus Energy Restoration: Solar microgrid design",
+    "sector": "Energy",
+    "problem": "The target region of Tartus requires immediate assistance in energy due to localized post-war damage. Solar microgrid design for rural Ghouta clinics. This project aims to design and implement a solution.",
+    "required_skills": [
+      "Solar PV",
+      "Battery Storage",
+      "Electrical Engineering",
+      "Syrian reconstruction context",
+      "Logistics"
+    ],
+    "budget": "$200,000",
+    "timeline": "12 months",
+    "preferred_location": "Tartus, Syria",
+    "sdgs": [
+      6
+    ],
+    "collaboration_type": "On-site",
+    "technology_readiness_level": "TRL 3",
+    "priority": "Low",
+    "expected_impact": {
+      "social": "Provides critical resource access and stability to 5,000+ local residents in Tartus.",
+      "environmental": "Reduces localized emissions and resources consumption through sustainable local components.",
+      "economic": "Generates 10 local engineering/construction jobs."
+    }
+  },
+  {
+    "organization": "Local Municipal Council",
+    "project_title": "Lattakia Education Restoration: Offline STEM educational tutoring systems",
+    "sector": "Education",
+    "problem": "The target region of Lattakia requires immediate assistance in education due to localized post-war damage. Offline STEM educational tutoring systems for schools. This project aims to design and implement a solution.",
+    "required_skills": [
+      "Software Engineering",
+      "STEM curriculum",
+      "Raspberry Pi caches",
+      "Syrian reconstruction context",
+      "Logistics"
+    ],
+    "budget": "$60,000",
+    "timeline": "6 months",
+    "preferred_location": "Lattakia, Syria",
+    "sdgs": [
+      7
+    ],
+    "collaboration_type": "Hybrid",
+    "technology_readiness_level": "TRL 5",
+    "priority": "Medium",
+    "expected_impact": {
+      "social": "Provides critical resource access and stability to 5,000+ local residents in Lattakia.",
+      "environmental": "Reduces localized emissions and resources consumption through sustainable local components.",
+      "economic": "Generates 10 local engineering/construction jobs."
+    }
+  },
+  {
+    "organization": "Syria Development Trust",
+    "project_title": "Hama Transportation Restoration: Bridge structural integrity monitoring network",
+    "sector": "Transportation",
+    "problem": "The target region of Hama requires immediate assistance in transportation due to localized post-war damage. Bridge structural integrity monitoring network. This project aims to design and implement a solution.",
+    "required_skills": [
+      "Structural monitoring",
+      "Sensors",
+      "Civil Engineering",
+      "Syrian reconstruction context",
+      "Logistics"
+    ],
+    "budget": "$100,000",
+    "timeline": "6 months",
+    "preferred_location": "Hama, Syria",
+    "sdgs": [
+      15
+    ],
+    "collaboration_type": "Remote",
+    "technology_readiness_level": "TRL 7",
+    "priority": "Low",
+    "expected_impact": {
+      "social": "Provides critical resource access and stability to 5,000+ local residents in Hama.",
+      "environmental": "Reduces localized emissions and resources consumption through sustainable local components.",
+      "economic": "Generates 30 local engineering/construction jobs."
+    }
+  },
+  {
+    "organization": "UNDP Syria Co.",
+    "project_title": "Damascus Education Restoration: Offline STEM educational tutoring systems",
+    "sector": "Education",
+    "problem": "The target region of Damascus requires immediate assistance in education due to localized post-war damage. Offline STEM educational tutoring systems for schools. This project aims to design and implement a solution.",
+    "required_skills": [
+      "Software Engineering",
+      "STEM curriculum",
+      "Raspberry Pi caches",
+      "Syrian reconstruction context",
+      "Logistics"
+    ],
+    "budget": "$150,000",
+    "timeline": "12 months",
+    "preferred_location": "Damascus, Syria",
+    "sdgs": [
+      12
+    ],
+    "collaboration_type": "Remote",
+    "technology_readiness_level": "TRL 5",
+    "priority": "Low",
+    "expected_impact": {
+      "social": "Provides critical resource access and stability to 5,000+ local residents in Damascus.",
+      "environmental": "Reduces localized emissions and resources consumption through sustainable local components.",
+      "economic": "Generates 10 local engineering/construction jobs."
+    }
+  },
+  {
+    "organization": "Red Crescent Syria",
+    "project_title": "Homs Education Restoration: Offline STEM educational tutoring systems",
+    "sector": "Education",
+    "problem": "The target region of Homs requires immediate assistance in education due to localized post-war damage. Offline STEM educational tutoring systems for schools. This project aims to design and implement a solution.",
+    "required_skills": [
+      "Software Engineering",
+      "STEM curriculum",
+      "Raspberry Pi caches",
+      "Syrian reconstruction context",
+      "Logistics"
+    ],
+    "budget": "$150,000",
+    "timeline": "12 months",
+    "preferred_location": "Homs, Syria",
+    "sdgs": [
+      6
+    ],
+    "collaboration_type": "On-site",
+    "technology_readiness_level": "TRL 5",
+    "priority": "High",
+    "expected_impact": {
+      "social": "Provides critical resource access and stability to 5,000+ local residents in Homs.",
+      "environmental": "Reduces localized emissions and resources consumption through sustainable local components.",
+      "economic": "Generates 10 local engineering/construction jobs."
+    }
+  },
+  {
+    "organization": "UNDP Syria Co.",
+    "project_title": "Deir ez-Zor Environment Restoration: Medical waste autoclave sterilization and disposal system",
+    "sector": "Environment",
+    "problem": "The target region of Deir ez-Zor requires immediate assistance in environment due to localized post-war damage. Medical waste autoclave sterilization and disposal system. This project aims to design and implement a solution.",
+    "required_skills": [
+      "Medical waste",
+      "Autoclave design",
+      "Sanitation",
+      "Health safety",
+      "Syrian reconstruction context",
+      "Logistics"
+    ],
+    "budget": "$60,000",
+    "timeline": "12 months",
+    "preferred_location": "Deir ez-Zor, Syria",
+    "sdgs": [
+      6
+    ],
+    "collaboration_type": "On-site",
+    "technology_readiness_level": "TRL 7",
+    "priority": "High",
+    "expected_impact": {
+      "social": "Provides critical resource access and stability to 5,000+ local residents in Deir ez-Zor.",
+      "environmental": "Reduces localized emissions and resources consumption through sustainable local components.",
+      "economic": "Generates 30 local engineering/construction jobs."
+    }
+  },
+  {
+    "organization": "NGO Hope Foundation",
+    "project_title": "Deir ez-Zor Agriculture Restoration: Olive grove drought mitigation and disease modeling",
+    "sector": "Agriculture",
+    "problem": "The target region of Deir ez-Zor requires immediate assistance in agriculture due to localized post-war damage. Olive grove drought mitigation and disease modeling. This project aims to design and implement a solution.",
+    "required_skills": [
+      "Agronomy",
+      "Plant pathology",
+      "GIS",
+      "Climate change",
+      "Syrian reconstruction context",
+      "Logistics"
+    ],
+    "budget": "$150,000",
+    "timeline": "12 months",
+    "preferred_location": "Deir ez-Zor, Syria",
+    "sdgs": [
+      4
+    ],
+    "collaboration_type": "On-site",
+    "technology_readiness_level": "TRL 6",
+    "priority": "High",
+    "expected_impact": {
+      "social": "Provides critical resource access and stability to 5,000+ local residents in Deir ez-Zor.",
+      "environmental": "Reduces localized emissions and resources consumption through sustainable local components.",
+      "economic": "Generates 10 local engineering/construction jobs."
+    }
+  },
+  {
+    "organization": "Syria Development Trust",
+    "project_title": "Aleppo Water Restoration: Smart leak detection in Homs city lines",
+    "sector": "Water",
+    "problem": "The target region of Aleppo requires immediate assistance in water due to localized post-war damage. Smart leak detection in Homs city lines. This project aims to design and implement a solution.",
+    "required_skills": [
+      "Acoustic sensors",
+      "Water management",
+      "GIS",
+      "Syrian reconstruction context",
+      "Logistics"
+    ],
+    "budget": "$60,000",
+    "timeline": "18 months",
+    "preferred_location": "Aleppo, Syria",
+    "sdgs": [
+      3
+    ],
+    "collaboration_type": "Hybrid",
+    "technology_readiness_level": "TRL 6",
+    "priority": "Low",
+    "expected_impact": {
+      "social": "Provides critical resource access and stability to 5,000+ local residents in Aleppo.",
+      "environmental": "Reduces localized emissions and resources consumption through sustainable local components.",
+      "economic": "Generates 30 local engineering/construction jobs."
+    }
+  },
+  {
+    "organization": "Red Crescent Syria",
+    "project_title": "Tartus Environment Restoration: Medical waste autoclave sterilization and disposal system",
+    "sector": "Environment",
+    "problem": "The target region of Tartus requires immediate assistance in environment due to localized post-war damage. Medical waste autoclave sterilization and disposal system. This project aims to design and implement a solution.",
+    "required_skills": [
+      "Medical waste",
+      "Autoclave design",
+      "Sanitation",
+      "Health safety",
+      "Syrian reconstruction context",
+      "Logistics"
+    ],
+    "budget": "$200,000",
+    "timeline": "6 months",
+    "preferred_location": "Tartus, Syria",
+    "sdgs": [
+      3
+    ],
+    "collaboration_type": "On-site",
+    "technology_readiness_level": "TRL 7",
+    "priority": "Low",
+    "expected_impact": {
+      "social": "Provides critical resource access and stability to 5,000+ local residents in Tartus.",
+      "environmental": "Reduces localized emissions and resources consumption through sustainable local components.",
+      "economic": "Generates 20 local engineering/construction jobs."
+    }
+  },
+  {
+    "organization": "Red Crescent Syria",
+    "project_title": "Aleppo Transportation Restoration: Bridge structural integrity monitoring network",
+    "sector": "Transportation",
+    "problem": "The target region of Aleppo requires immediate assistance in transportation due to localized post-war damage. Bridge structural integrity monitoring network. This project aims to design and implement a solution.",
+    "required_skills": [
+      "Structural monitoring",
+      "Sensors",
+      "Civil Engineering",
+      "Syrian reconstruction context",
+      "Logistics"
+    ],
+    "budget": "$150,000",
+    "timeline": "9 months",
+    "preferred_location": "Aleppo, Syria",
+    "sdgs": [
+      1
+    ],
+    "collaboration_type": "On-site",
+    "technology_readiness_level": "TRL 5",
+    "priority": "Medium",
+    "expected_impact": {
+      "social": "Provides critical resource access and stability to 5,000+ local residents in Aleppo.",
+      "environmental": "Reduces localized emissions and resources consumption through sustainable local components.",
+      "economic": "Generates 30 local engineering/construction jobs."
+    }
+  },
+  {
+    "organization": "Local Municipal Council",
+    "project_title": "Tartus Healthcare Restoration: Telemedicine diagnosis plat",
+    "sector": "Healthcare",
+    "problem": "The target region of Tartus requires immediate assistance in healthcare due to localized post-war damage. Telemedicine diagnosis platform for rural Idlib clinics. This project aims to design and implement a solution.",
+    "required_skills": [
+      "Telehealth",
+      "Web development",
+      "Diagnostics",
+      "Arabic NLP",
+      "Syrian reconstruction context",
+      "Logistics"
+    ],
+    "budget": "$100,000",
+    "timeline": "9 months",
+    "preferred_location": "Tartus, Syria",
+    "sdgs": [
+      8
+    ],
+    "collaboration_type": "Remote",
+    "technology_readiness_level": "TRL 7",
+    "priority": "High",
+    "expected_impact": {
+      "social": "Provides critical resource access and stability to 5,000+ local residents in Tartus.",
+      "environmental": "Reduces localized emissions and resources consumption through sustainable local components.",
+      "economic": "Generates 30 local engineering/construction jobs."
+    }
+  },
+  {
+    "organization": "UNDP Syria Co.",
+    "project_title": "Hama Water Restoration: Smart leak detection in Homs city lines",
+    "sector": "Water",
+    "problem": "The target region of Hama requires immediate assistance in water due to localized post-war damage. Smart leak detection in Homs city lines. This project aims to design and implement a solution.",
+    "required_skills": [
+      "Acoustic sensors",
+      "Water management",
+      "GIS",
+      "Syrian reconstruction context",
+      "Logistics"
+    ],
+    "budget": "$30,000",
+    "timeline": "6 months",
+    "preferred_location": "Hama, Syria",
+    "sdgs": [
+      7
+    ],
+    "collaboration_type": "Remote",
+    "technology_readiness_level": "TRL 3",
+    "priority": "Medium",
+    "expected_impact": {
+      "social": "Provides critical resource access and stability to 5,000+ local residents in Hama.",
+      "environmental": "Reduces localized emissions and resources consumption through sustainable local components.",
+      "economic": "Generates 10 local engineering/construction jobs."
+    }
+  },
+  {
+    "organization": "Local Municipal Council",
+    "project_title": "Aleppo Government Restoration: Digital identity system",
+    "sector": "Government",
+    "problem": "The target region of Aleppo requires immediate assistance in government due to localized post-war damage. Digital identity system for municipal registry recovery. This project aims to design and implement a solution.",
+    "required_skills": [
+      "Cryptography",
+      "Database management",
+      "Public administration",
+      "Syrian reconstruction context",
+      "Logistics"
+    ],
+    "budget": "$150,000",
+    "timeline": "6 months",
+    "preferred_location": "Aleppo, Syria",
+    "sdgs": [
+      4
+    ],
+    "collaboration_type": "Remote",
+    "technology_readiness_level": "TRL 6",
+    "priority": "Low",
+    "expected_impact": {
+      "social": "Provides critical resource access and stability to 5,000+ local residents in Aleppo.",
+      "environmental": "Reduces localized emissions and resources consumption through sustainable local components.",
+      "economic": "Generates 30 local engineering/construction jobs."
+    }
+  },
+  {
+    "organization": "NGO Hope Foundation",
+    "project_title": "Lattakia Healthcare Restoration: Telemedicine diagnosis plat",
+    "sector": "Healthcare",
+    "problem": "The target region of Lattakia requires immediate assistance in healthcare due to localized post-war damage. Telemedicine diagnosis platform for rural Idlib clinics. This project aims to design and implement a solution.",
+    "required_skills": [
+      "Telehealth",
+      "Web development",
+      "Diagnostics",
+      "Arabic NLP",
+      "Syrian reconstruction context",
+      "Logistics"
+    ],
+    "budget": "$200,000",
+    "timeline": "18 months",
+    "preferred_location": "Lattakia, Syria",
+    "sdgs": [
+      12
+    ],
+    "collaboration_type": "On-site",
+    "technology_readiness_level": "TRL 4",
+    "priority": "High",
+    "expected_impact": {
+      "social": "Provides critical resource access and stability to 5,000+ local residents in Lattakia.",
+      "environmental": "Reduces localized emissions and resources consumption through sustainable local components.",
+      "economic": "Generates 30 local engineering/construction jobs."
+    }
+  },
+  {
+    "organization": "Red Crescent Syria",
+    "project_title": "Deir ez-Zor Agriculture Restoration: Olive grove drought mitigation and disease modeling",
+    "sector": "Agriculture",
+    "problem": "The target region of Deir ez-Zor requires immediate assistance in agriculture due to localized post-war damage. Olive grove drought mitigation and disease modeling. This project aims to design and implement a solution.",
+    "required_skills": [
+      "Agronomy",
+      "Plant pathology",
+      "GIS",
+      "Climate change",
+      "Syrian reconstruction context",
+      "Logistics"
+    ],
+    "budget": "$150,000",
+    "timeline": "18 months",
+    "preferred_location": "Deir ez-Zor, Syria",
+    "sdgs": [
+      6
+    ],
+    "collaboration_type": "Remote",
+    "technology_readiness_level": "TRL 3",
+    "priority": "High",
+    "expected_impact": {
+      "social": "Provides critical resource access and stability to 5,000+ local residents in Deir ez-Zor.",
+      "environmental": "Reduces localized emissions and resources consumption through sustainable local components.",
+      "economic": "Generates 20 local engineering/construction jobs."
+    }
+  },
+  {
+    "organization": "Syria Development Trust",
+    "project_title": "Tartus Water Restoration: Smart leak detection in Homs city lines",
+    "sector": "Water",
+    "problem": "The target region of Tartus requires immediate assistance in water due to localized post-war damage. Smart leak detection in Homs city lines. This project aims to design and implement a solution.",
+    "required_skills": [
+      "Acoustic sensors",
+      "Water management",
+      "GIS",
+      "Syrian reconstruction context",
+      "Logistics"
+    ],
+    "budget": "$200,000",
+    "timeline": "9 months",
+    "preferred_location": "Tartus, Syria",
+    "sdgs": [
+      3
+    ],
+    "collaboration_type": "On-site",
+    "technology_readiness_level": "TRL 3",
+    "priority": "High",
+    "expected_impact": {
+      "social": "Provides critical resource access and stability to 5,000+ local residents in Tartus.",
+      "environmental": "Reduces localized emissions and resources consumption through sustainable local components.",
+      "economic": "Generates 10 local engineering/construction jobs."
+    }
+  },
+  {
+    "organization": "Red Crescent Syria",
+    "project_title": "Homs Energy Restoration: Solar microgrid design",
+    "sector": "Energy",
+    "problem": "The target region of Homs requires immediate assistance in energy due to localized post-war damage. Solar microgrid design for rural Ghouta clinics. This project aims to design and implement a solution.",
+    "required_skills": [
+      "Solar PV",
+      "Battery Storage",
+      "Electrical Engineering",
+      "Syrian reconstruction context",
+      "Logistics"
+    ],
+    "budget": "$30,000",
+    "timeline": "9 months",
+    "preferred_location": "Homs, Syria",
+    "sdgs": [
+      15
+    ],
+    "collaboration_type": "Hybrid",
+    "technology_readiness_level": "TRL 4",
+    "priority": "Medium",
+    "expected_impact": {
+      "social": "Provides critical resource access and stability to 5,000+ local residents in Homs.",
+      "environmental": "Reduces localized emissions and resources consumption through sustainable local components.",
+      "economic": "Generates 30 local engineering/construction jobs."
+    }
+  },
+  {
+    "organization": "Syria Development Trust",
+    "project_title": "Hasakah Healthcare Restoration: Telemedicine diagnosis plat",
+    "sector": "Healthcare",
+    "problem": "The target region of Hasakah requires immediate assistance in healthcare due to localized post-war damage. Telemedicine diagnosis platform for rural Idlib clinics. This project aims to design and implement a solution.",
+    "required_skills": [
+      "Telehealth",
+      "Web development",
+      "Diagnostics",
+      "Arabic NLP",
+      "Syrian reconstruction context",
+      "Logistics"
+    ],
+    "budget": "$150,000",
+    "timeline": "18 months",
+    "preferred_location": "Hasakah, Syria",
+    "sdgs": [
+      3
+    ],
+    "collaboration_type": "Remote",
+    "technology_readiness_level": "TRL 6",
+    "priority": "High",
+    "expected_impact": {
+      "social": "Provides critical resource access and stability to 5,000+ local residents in Hasakah.",
+      "environmental": "Reduces localized emissions and resources consumption through sustainable local components.",
+      "economic": "Generates 20 local engineering/construction jobs."
+    }
+  },
+  {
+    "organization": "UNDP Syria Co.",
+    "project_title": "Deir ez-Zor Housing Restoration: Low-cost earthquake-resistant modular homes",
+    "sector": "Housing",
+    "problem": "The target region of Deir ez-Zor requires immediate assistance in housing due to localized post-war damage. Low-cost earthquake-resistant modular homes. This project aims to design and implement a solution.",
+    "required_skills": [
+      "Modular construction",
+      "Earthquake engineering",
+      "Seismic analysis",
+      "Syrian reconstruction context",
+      "Logistics"
+    ],
+    "budget": "$30,000",
+    "timeline": "6 months",
+    "preferred_location": "Deir ez-Zor, Syria",
+    "sdgs": [
+      9
+    ],
+    "collaboration_type": "On-site",
+    "technology_readiness_level": "TRL 5",
+    "priority": "High",
+    "expected_impact": {
+      "social": "Provides critical resource access and stability to 5,000+ local residents in Deir ez-Zor.",
+      "environmental": "Reduces localized emissions and resources consumption through sustainable local components.",
+      "economic": "Generates 10 local engineering/construction jobs."
+    }
+  },
+  {
+    "organization": "Syria Development Trust",
+    "project_title": "Idlib Education Restoration: Offline STEM educational tutoring systems",
+    "sector": "Education",
+    "problem": "The target region of Idlib requires immediate assistance in education due to localized post-war damage. Offline STEM educational tutoring systems for schools. This project aims to design and implement a solution.",
+    "required_skills": [
+      "Software Engineering",
+      "STEM curriculum",
+      "Raspberry Pi caches",
+      "Syrian reconstruction context",
+      "Logistics"
+    ],
+    "budget": "$200,000",
+    "timeline": "18 months",
+    "preferred_location": "Idlib, Syria",
+    "sdgs": [
+      9
+    ],
+    "collaboration_type": "Remote",
+    "technology_readiness_level": "TRL 5",
+    "priority": "High",
+    "expected_impact": {
+      "social": "Provides critical resource access and stability to 5,000+ local residents in Idlib.",
+      "environmental": "Reduces localized emissions and resources consumption through sustainable local components.",
+      "economic": "Generates 20 local engineering/construction jobs."
+    }
+  },
+  {
+    "organization": "UNDP Syria Co.",
+    "project_title": "Aleppo Education Restoration: Offline STEM educational tutoring systems",
+    "sector": "Education",
+    "problem": "The target region of Aleppo requires immediate assistance in education due to localized post-war damage. Offline STEM educational tutoring systems for schools. This project aims to design and implement a solution.",
+    "required_skills": [
+      "Software Engineering",
+      "STEM curriculum",
+      "Raspberry Pi caches",
+      "Syrian reconstruction context",
+      "Logistics"
+    ],
+    "budget": "$200,000",
+    "timeline": "6 months",
+    "preferred_location": "Aleppo, Syria",
+    "sdgs": [
+      15
+    ],
+    "collaboration_type": "On-site",
+    "technology_readiness_level": "TRL 3",
+    "priority": "High",
+    "expected_impact": {
+      "social": "Provides critical resource access and stability to 5,000+ local residents in Aleppo.",
+      "environmental": "Reduces localized emissions and resources consumption through sustainable local components.",
+      "economic": "Generates 10 local engineering/construction jobs."
+    }
+  },
+  {
+    "organization": "UNDP Syria Co.",
+    "project_title": "Damascus Education Restoration: Offline STEM educational tutoring systems",
+    "sector": "Education",
+    "problem": "The target region of Damascus requires immediate assistance in education due to localized post-war damage. Offline STEM educational tutoring systems for schools. This project aims to design and implement a solution.",
+    "required_skills": [
+      "Software Engineering",
+      "STEM curriculum",
+      "Raspberry Pi caches",
+      "Syrian reconstruction context",
+      "Logistics"
+    ],
+    "budget": "$150,000",
+    "timeline": "18 months",
+    "preferred_location": "Damascus, Syria",
+    "sdgs": [
+      9
+    ],
+    "collaboration_type": "Remote",
+    "technology_readiness_level": "TRL 4",
+    "priority": "High",
+    "expected_impact": {
+      "social": "Provides critical resource access and stability to 5,000+ local residents in Damascus.",
+      "environmental": "Reduces localized emissions and resources consumption through sustainable local components.",
+      "economic": "Generates 20 local engineering/construction jobs."
+    }
+  }
+]
