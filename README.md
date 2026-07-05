@@ -203,6 +203,8 @@ Click **"Seed Demo Data"** in the sidebar to populate the database with:
 ## 📸 Screenshots
 
 > The platform features a dark-mode UI with glassmorphism design, radar charts for impact visualization, and real-time AI chat.
+> <img width="1345" height="540" alt="1" src="https://github.com/user-attachments/assets/1aad3069-70f6-4630-ac7c-d9b65ed0d7b2" />
+
 
 *Dashboard · AI Chat Interview · Match Finder · Impact Radar · Funding Sources*
 
