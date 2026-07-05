@@ -29,7 +29,7 @@ Syria has experienced one of the most devastating conflicts of the 21st century.
 
 **The bottleneck isn't funding or willingness — it's connection.**
 
-Hundreds of qualified researchers worldwide have relevant expertise. Dozens of NGOs, UN agencies, and local municipalities are running reconstruction projects right now. But they can't find each other efficiently. Traditional academic job boards and conference networking are too slow, too geographically limited, and don't understand the nuanced technical requirements of post-war reconstruction.
+Thousands of qualified researchers worldwide have relevant expertise. Dozens of NGOs, UN agencies, and local municipalities are running reconstruction projects right now. But they can't find each other efficiently. Traditional academic job boards and conference networking are too slow, too geographically limited, and don't understand the nuanced technical requirements of post-war reconstruction.
 
 **CollabBridge AI solves this with a multi-agent AI system that acts as an intelligent matchmaker, team builder, and collaboration facilitator.**
 
