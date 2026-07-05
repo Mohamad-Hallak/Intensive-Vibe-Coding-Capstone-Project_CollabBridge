@@ -17,19 +17,19 @@ CollabBridge is a **three-tier web application** augmented with an AI agent laye
 ┌───────────────────────▼─────────────────────────┐
 │             Tier 2: API Backend                 │
 │              FastAPI (port 8001)                │
-│  ┌─────────────────────────────────────────┐   │
-│  │         Multi-Agent AI Layer            │   │
-│  │  11 specialized Gemini-powered agents   │   │
-│  └─────────────────────────────────────────┘   │
-│  ┌─────────────────────────────────────────┐   │
-│  │         Data Access Layer               │   │
-│  │  SQLAlchemy ORM + SQLite               │   │
-│  └─────────────────────────────────────────┘   │
+│  ┌─────────────────────────────────────────┐    │
+│  │         Multi-Agent AI Layer            │    │
+│  │  11 specialized Gemini-powered agents   │    │
+│  └─────────────────────────────────────────┘    │
+│  ┌─────────────────────────────────────────┐    │
+│  │         Data Access Layer               │    │
+│  │  SQLAlchemy ORM + SQLite                │    │
+│  └─────────────────────────────────────────┘    │
 └───────────────────────┬─────────────────────────┘
                         │ MCP JSON-RPC 2.0
 ┌───────────────────────▼─────────────────────────┐
 │           Tier 3: MCP Server (port 8002)        │
-│  Exposes all agent capabilities as MCP tools   │
+│  Exposes all agent capabilities as MCP tools    │
 └─────────────────────────────────────────────────┘
 ```
 
