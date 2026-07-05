@@ -12,7 +12,7 @@
 [![Google ADK](https://img.shields.io/badge/Google%20ADK-2.3.0-34A853?logo=google&logoColor=white)](https://google.github.io/adk-docs/)
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)](https://react.dev)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white)](https://docker.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: Custom Non-Commercial](https://img.shields.io/badge/License-Non--Commercial-red.svg)](LICENSE)
 [![MCP Server](https://img.shields.io/badge/MCP-Server%20Included-blueviolet)](docs/API.md)
 
 **Kaggle AI Agents Capstone · Agents for Good Track**
@@ -232,7 +232,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute.
 
 ## 📄 License
 
-MIT License — see [LICENSE](LICENSE) for details.
+Custom Non-Commercial License — see [LICENSE](LICENSE) for details. Unauthorized commercial use, reproduction, or distribution is strictly prohibited.
 
 ---
 

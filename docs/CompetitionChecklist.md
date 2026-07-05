@@ -127,7 +127,7 @@ Rubric-by-rubric checklist for the **Kaggle AI Agents: Intensive Vibe Coding Cap
 ## GitHub Repository Readiness
 
 - [x] `.gitignore` — secrets, venvs, databases excluded
-- [x] `LICENSE` — MIT
+- [x] `LICENSE` — Custom Non-Commercial
 - [x] `CONTRIBUTING.md`
 - [x] `.github/workflows/ci.yml` — automated CI
 - [x] `.github/ISSUE_TEMPLATE/bug_report.md`
