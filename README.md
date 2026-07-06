@@ -154,7 +154,7 @@ See [docs/API.md](docs/API.md) for full MCP client configuration.
 
 ```bash
 git clone https://github.com/Mohamad-Hallak/Intensive-Vibe-Coding-Capstone-Project_CollabBridge.git
-cd CollabBridge
+cd Intensive-Vibe-Coding-Capstone-Project_CollabBridge
 
 # Copy env template and add your Gemini API key
 cp .env.example .env
