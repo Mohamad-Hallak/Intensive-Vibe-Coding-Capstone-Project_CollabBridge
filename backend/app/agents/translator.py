@@ -49,13 +49,14 @@ def translate_en_to_ar(text: str) -> dict:
                 "is_fallback": True
             }
 
-    # Fallback response structure if API key is missing
+    # Fallback response structure if API key is missing or unavailable
+    fallback_text = fallback_translate_text(text_stripped, "ar")
     fallback_response = {
         "original_text": text_stripped,
-        "initial_translation": f"[ترجمة مبدئية تجريبية] {text_stripped}",
-        "critique": "Offline Demo Mode: Simulated translation critique. No Gemini API key detected in backend configuration. Please add a valid GEMINI_API_KEY in the backend .env file.",
-        "final_translation": f"[ترجمة نهائية] {text_stripped} (الرجاء تهيئة مفتاح API للترجمة الدقيقة)",
-        "confidence_score": 5.0,
+        "initial_translation": fallback_text,
+        "critique": "Offline Fallback Mode: Local dictionary translation. No active Gemini session. Please check your GEMINI_API_KEY setup.",
+        "final_translation": fallback_text,
+        "confidence_score": 6.5,
         "is_fallback": True
     }
 
@@ -137,12 +138,13 @@ def translate_en_to_ar(text: str) -> dict:
     except Exception as e:
         logger.error(f"Error in translation agent pipeline: {e}. Disabling Gemini for this session.")
         settings.GEMINI_AVAILABLE = False
+        fallback_text = fallback_translate_text(text_stripped, "ar")
         return {
             "original_text": text_stripped,
-            "initial_translation": f"[Error during translation] {text_stripped}",
-            "critique": f"Exception encountered: {str(e)}",
-            "final_translation": f"[Error] {text_stripped}",
-            "confidence_score": 0.0,
+            "initial_translation": fallback_text,
+            "critique": f"API Connection failed ({str(e)}). Fell back to offline dictionary translation.",
+            "final_translation": fallback_text,
+            "confidence_score": 6.0,
             "is_fallback": True
         }
 

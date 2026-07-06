@@ -276,7 +276,6 @@ function ProposalModal({ projectId, onClose, lang }) {
             onClick={onClose}
             style={{
               background: 'none',
-              border: 'none',
               color: 'var(--text-muted)',
               cursor: 'pointer',
               padding: '6px',
